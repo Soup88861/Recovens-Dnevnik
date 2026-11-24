@@ -1,0 +1,5440 @@
+{
+  "group": {
+    "name": "10 группа",
+    "year": "2026/2027"
+  },
+  "subjects": [
+    {
+      "id": "math",
+      "name": "Математика"
+    },
+    {
+      "id": "russian",
+      "name": "Русский язык"
+    },
+    {
+      "id": "kyrgyz",
+      "name": "Кыргызский язык"
+    },
+    {
+      "id": "english",
+      "name": "Английский язык"
+    },
+    {
+      "id": "physics",
+      "name": "Физика"
+    },
+    {
+      "id": "informatics",
+      "name": "Информатика"
+    },
+    {
+      "id": "programming",
+      "name": "Программирование"
+    },
+    {
+      "id": "history",
+      "name": "История"
+    }
+  ],
+  "students": [
+    {
+      "id": "st01",
+      "name": "Абдукаримов Бекболот Рахматиллаевич",
+      "grades": {
+        "math": [
+          {
+            "id": "st01-math-1",
+            "value": 4,
+            "date": "2026-09-22",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st01-math-2",
+            "value": 4,
+            "date": "2026-09-29"
+          },
+          {
+            "id": "st01-math-3",
+            "value": 3,
+            "date": "2026-10-09"
+          },
+          {
+            "id": "st01-math-4",
+            "value": 3,
+            "date": "2026-10-20"
+          }
+        ],
+        "russian": [
+          {
+            "id": "st01-russian-1",
+            "value": 4,
+            "date": "2026-09-04"
+          },
+          {
+            "id": "st01-russian-2",
+            "value": 4,
+            "date": "2026-09-16"
+          },
+          {
+            "id": "st01-russian-3",
+            "value": 4,
+            "date": "2026-09-28"
+          },
+          {
+            "id": "st01-russian-4",
+            "value": 4,
+            "date": "2026-10-12"
+          },
+          {
+            "id": "st01-russian-5",
+            "value": 3,
+            "date": "2026-10-16",
+            "comment": "Реферат"
+          }
+        ],
+        "kyrgyz": [
+          {
+            "id": "st01-kyrgyz-1",
+            "value": 3,
+            "date": "2026-10-02"
+          },
+          {
+            "id": "st01-kyrgyz-2",
+            "value": 2,
+            "date": "2026-10-07"
+          },
+          {
+            "id": "st01-kyrgyz-3",
+            "value": 3,
+            "date": "2026-10-12"
+          },
+          {
+            "id": "st01-kyrgyz-4",
+            "value": 3,
+            "date": "2026-10-28"
+          },
+          {
+            "id": "st01-kyrgyz-5",
+            "value": 4,
+            "date": "2026-11-09"
+          },
+          {
+            "id": "st01-kyrgyz-6",
+            "value": 3,
+            "date": "2026-11-09"
+          }
+        ],
+        "english": [
+          {
+            "id": "st01-english-1",
+            "value": 3,
+            "date": "2026-09-18",
+            "comment": "Контрольная работа"
+          },
+          {
+            "id": "st01-english-2",
+            "value": 2,
+            "date": "2026-09-24"
+          },
+          {
+            "id": "st01-english-3",
+            "value": 3,
+            "date": "2026-10-16"
+          },
+          {
+            "id": "st01-english-4",
+            "value": 3,
+            "date": "2026-10-29",
+            "comment": "Самостоятельная работа"
+          },
+          {
+            "id": "st01-english-5",
+            "value": 3,
+            "date": "2026-11-13"
+          },
+          {
+            "id": "st01-english-6",
+            "value": 3,
+            "date": "2026-11-20"
+          }
+        ],
+        "physics": [
+          {
+            "id": "st01-physics-1",
+            "value": 4,
+            "date": "2026-09-16",
+            "comment": "Практическая работа"
+          },
+          {
+            "id": "st01-physics-2",
+            "value": 3,
+            "date": "2026-10-23",
+            "comment": "Контрольная работа"
+          },
+          {
+            "id": "st01-physics-3",
+            "value": 4,
+            "date": "2026-10-29"
+          },
+          {
+            "id": "st01-physics-4",
+            "value": 4,
+            "date": "2026-11-19",
+            "comment": "Контрольная работа"
+          }
+        ],
+        "informatics": [
+          {
+            "id": "st01-informatics-1",
+            "value": 3,
+            "date": "2026-09-16"
+          },
+          {
+            "id": "st01-informatics-2",
+            "value": 3,
+            "date": "2026-09-30"
+          },
+          {
+            "id": "st01-informatics-3",
+            "value": 3,
+            "date": "2026-10-21"
+          },
+          {
+            "id": "st01-informatics-4",
+            "value": 3,
+            "date": "2026-10-26",
+            "comment": "Домашнее задание"
+          },
+          {
+            "id": "st01-informatics-5",
+            "value": 3,
+            "date": "2026-11-09",
+            "comment": "Самостоятельная работа"
+          },
+          {
+            "id": "st01-informatics-6",
+            "value": 4,
+            "date": "2026-11-20",
+            "comment": "Самостоятельная работа"
+          }
+        ],
+        "programming": [
+          {
+            "id": "st01-programming-1",
+            "value": 4,
+            "date": "2026-09-16"
+          },
+          {
+            "id": "st01-programming-2",
+            "value": 4,
+            "date": "2026-10-07"
+          },
+          {
+            "id": "st01-programming-3",
+            "value": 4,
+            "date": "2026-10-19",
+            "comment": "Самостоятельная работа"
+          }
+        ],
+        "history": [
+          {
+            "id": "st01-history-1",
+            "value": 4,
+            "date": "2026-09-29"
+          },
+          {
+            "id": "st01-history-2",
+            "value": 3,
+            "date": "2026-09-30"
+          },
+          {
+            "id": "st01-history-3",
+            "value": 3,
+            "date": "2026-10-21"
+          },
+          {
+            "id": "st01-history-4",
+            "value": 3,
+            "date": "2026-11-05"
+          }
+        ]
+      }
+    },
+    {
+      "id": "st02",
+      "name": "Абдылдаев Урмат Шамильевич",
+      "grades": {
+        "math": [
+          {
+            "id": "st02-math-1",
+            "value": 4,
+            "date": "2026-10-06"
+          },
+          {
+            "id": "st02-math-2",
+            "value": 3,
+            "date": "2026-10-07"
+          },
+          {
+            "id": "st02-math-3",
+            "value": 4,
+            "date": "2026-10-07"
+          },
+          {
+            "id": "st02-math-4",
+            "value": 3,
+            "date": "2026-10-20"
+          },
+          {
+            "id": "st02-math-5",
+            "value": 3,
+            "date": "2026-10-22"
+          },
+          {
+            "id": "st02-math-6",
+            "value": 3,
+            "date": "2026-11-02"
+          }
+        ],
+        "russian": [
+          {
+            "id": "st02-russian-1",
+            "value": 2,
+            "date": "2026-09-24"
+          },
+          {
+            "id": "st02-russian-2",
+            "value": 2,
+            "date": "2026-10-12",
+            "comment": "Домашнее задание"
+          },
+          {
+            "id": "st02-russian-3",
+            "value": 4,
+            "date": "2026-10-22",
+            "comment": "Самостоятельная работа"
+          }
+        ],
+        "kyrgyz": [
+          {
+            "id": "st02-kyrgyz-1",
+            "value": 3,
+            "date": "2026-09-15"
+          },
+          {
+            "id": "st02-kyrgyz-2",
+            "value": 3,
+            "date": "2026-10-07"
+          },
+          {
+            "id": "st02-kyrgyz-3",
+            "value": 3,
+            "date": "2026-11-09"
+          }
+        ],
+        "english": [
+          {
+            "id": "st02-english-1",
+            "value": 2,
+            "date": "2026-09-18"
+          },
+          {
+            "id": "st02-english-2",
+            "value": 3,
+            "date": "2026-09-28"
+          },
+          {
+            "id": "st02-english-3",
+            "value": 4,
+            "date": "2026-10-14"
+          },
+          {
+            "id": "st02-english-4",
+            "value": 2,
+            "date": "2026-10-16"
+          },
+          {
+            "id": "st02-english-5",
+            "value": 2,
+            "date": "2026-10-16"
+          }
+        ],
+        "physics": [
+          {
+            "id": "st02-physics-1",
+            "value": 2,
+            "date": "2026-09-22"
+          },
+          {
+            "id": "st02-physics-2",
+            "value": 3,
+            "date": "2026-10-08"
+          },
+          {
+            "id": "st02-physics-3",
+            "value": 3,
+            "date": "2026-10-16"
+          },
+          {
+            "id": "st02-physics-4",
+            "value": 3,
+            "date": "2026-11-12"
+          },
+          {
+            "id": "st02-physics-5",
+            "value": 2,
+            "date": "2026-11-17"
+          },
+          {
+            "id": "st02-physics-6",
+            "value": 2,
+            "date": "2026-11-18"
+          }
+        ],
+        "informatics": [
+          {
+            "id": "st02-informatics-1",
+            "value": 2,
+            "date": "2026-09-02"
+          },
+          {
+            "id": "st02-informatics-2",
+            "value": 3,
+            "date": "2026-09-03"
+          },
+          {
+            "id": "st02-informatics-3",
+            "value": 2,
+            "date": "2026-09-10"
+          },
+          {
+            "id": "st02-informatics-4",
+            "value": 2,
+            "date": "2026-09-18"
+          },
+          {
+            "id": "st02-informatics-5",
+            "value": 2,
+            "date": "2026-11-17"
+          }
+        ],
+        "programming": [
+          {
+            "id": "st02-programming-1",
+            "value": 3,
+            "date": "2026-09-14"
+          },
+          {
+            "id": "st02-programming-2",
+            "value": 4,
+            "date": "2026-09-21"
+          },
+          {
+            "id": "st02-programming-3",
+            "value": 2,
+            "date": "2026-10-22"
+          }
+        ],
+        "history": [
+          {
+            "id": "st02-history-1",
+            "value": 3,
+            "date": "2026-10-02"
+          },
+          {
+            "id": "st02-history-2",
+            "value": 2,
+            "date": "2026-10-07"
+          },
+          {
+            "id": "st02-history-3",
+            "value": 2,
+            "date": "2026-10-09"
+          },
+          {
+            "id": "st02-history-4",
+            "value": 3,
+            "date": "2026-10-12"
+          },
+          {
+            "id": "st02-history-5",
+            "value": 3,
+            "date": "2026-11-10"
+          }
+        ]
+      }
+    },
+    {
+      "id": "st03",
+      "name": "Амирбеков Адилет Махмадулоевич",
+      "grades": {
+        "math": [
+          {
+            "id": "st03-math-1",
+            "value": 5,
+            "date": "2026-09-28"
+          },
+          {
+            "id": "st03-math-2",
+            "value": 3,
+            "date": "2026-10-28",
+            "comment": "Практическая работа"
+          },
+          {
+            "id": "st03-math-3",
+            "value": 5,
+            "date": "2026-11-05"
+          }
+        ],
+        "russian": [
+          {
+            "id": "st03-russian-1",
+            "value": 4,
+            "date": "2026-09-08"
+          },
+          {
+            "id": "st03-russian-2",
+            "value": 4,
+            "date": "2026-10-22"
+          },
+          {
+            "id": "st03-russian-3",
+            "value": 4,
+            "date": "2026-11-05"
+          },
+          {
+            "id": "st03-russian-4",
+            "value": 5,
+            "date": "2026-11-16"
+          }
+        ],
+        "kyrgyz": [
+          {
+            "id": "st03-kyrgyz-1",
+            "value": 5,
+            "date": "2026-09-02"
+          },
+          {
+            "id": "st03-kyrgyz-2",
+            "value": 4,
+            "date": "2026-09-09"
+          },
+          {
+            "id": "st03-kyrgyz-3",
+            "value": 4,
+            "date": "2026-11-20"
+          }
+        ],
+        "english": [
+          {
+            "id": "st03-english-1",
+            "value": 5,
+            "date": "2026-09-02"
+          },
+          {
+            "id": "st03-english-2",
+            "value": 4,
+            "date": "2026-09-24"
+          },
+          {
+            "id": "st03-english-3",
+            "value": 4,
+            "date": "2026-10-14"
+          },
+          {
+            "id": "st03-english-4",
+            "value": 4,
+            "date": "2026-11-13"
+          }
+        ],
+        "physics": [
+          {
+            "id": "st03-physics-1",
+            "value": 4,
+            "date": "2026-09-16"
+          },
+          {
+            "id": "st03-physics-2",
+            "value": 5,
+            "date": "2026-10-01"
+          },
+          {
+            "id": "st03-physics-3",
+            "value": 5,
+            "date": "2026-11-09"
+          },
+          {
+            "id": "st03-physics-4",
+            "value": 5,
+            "date": "2026-11-13"
+          }
+        ],
+        "informatics": [
+          {
+            "id": "st03-informatics-1",
+            "value": 5,
+            "date": "2026-09-18",
+            "comment": "Контрольная работа"
+          },
+          {
+            "id": "st03-informatics-2",
+            "value": 4,
+            "date": "2026-10-28",
+            "comment": "Контрольная работа"
+          },
+          {
+            "id": "st03-informatics-3",
+            "value": 4,
+            "date": "2026-11-02"
+          },
+          {
+            "id": "st03-informatics-4",
+            "value": 4,
+            "date": "2026-11-03"
+          },
+          {
+            "id": "st03-informatics-5",
+            "value": 4,
+            "date": "2026-11-20"
+          }
+        ],
+        "programming": [
+          {
+            "id": "st03-programming-1",
+            "value": 5,
+            "date": "2026-09-18",
+            "comment": "Домашнее задание"
+          },
+          {
+            "id": "st03-programming-2",
+            "value": 4,
+            "date": "2026-10-30"
+          },
+          {
+            "id": "st03-programming-3",
+            "value": 5,
+            "date": "2026-11-09"
+          },
+          {
+            "id": "st03-programming-4",
+            "value": 5,
+            "date": "2026-11-13"
+          }
+        ],
+        "history": [
+          {
+            "id": "st03-history-1",
+            "value": 3,
+            "date": "2026-10-07",
+            "comment": "Домашнее задание"
+          },
+          {
+            "id": "st03-history-2",
+            "value": 5,
+            "date": "2026-10-09",
+            "comment": "Практическая работа"
+          },
+          {
+            "id": "st03-history-3",
+            "value": 4,
+            "date": "2026-10-09",
+            "comment": "Реферат"
+          },
+          {
+            "id": "st03-history-4",
+            "value": 4,
+            "date": "2026-10-19"
+          },
+          {
+            "id": "st03-history-5",
+            "value": 5,
+            "date": "2026-10-23"
+          },
+          {
+            "id": "st03-history-6",
+            "value": 5,
+            "date": "2026-11-04"
+          }
+        ]
+      }
+    },
+    {
+      "id": "st04",
+      "name": "Бауэр Лилия Сергеевна",
+      "grades": {
+        "math": [
+          {
+            "id": "st04-math-1",
+            "value": 4,
+            "date": "2026-09-09"
+          },
+          {
+            "id": "st04-math-2",
+            "value": 5,
+            "date": "2026-10-06"
+          },
+          {
+            "id": "st04-math-3",
+            "value": 4,
+            "date": "2026-10-21",
+            "comment": "Реферат"
+          },
+          {
+            "id": "st04-math-4",
+            "value": 4,
+            "date": "2026-11-06"
+          },
+          {
+            "id": "st04-math-5",
+            "value": 4,
+            "date": "2026-11-12"
+          }
+        ],
+        "russian": [
+          {
+            "id": "st04-russian-1",
+            "value": 4,
+            "date": "2026-09-14",
+            "comment": "Реферат"
+          },
+          {
+            "id": "st04-russian-2",
+            "value": 4,
+            "date": "2026-09-28",
+            "comment": "Практическая работа"
+          },
+          {
+            "id": "st04-russian-3",
+            "value": 4,
+            "date": "2026-10-14"
+          }
+        ],
+        "kyrgyz": [
+          {
+            "id": "st04-kyrgyz-1",
+            "value": 3,
+            "date": "2026-09-08",
+            "comment": "Самостоятельная работа"
+          },
+          {
+            "id": "st04-kyrgyz-2",
+            "value": 4,
+            "date": "2026-09-30"
+          },
+          {
+            "id": "st04-kyrgyz-3",
+            "value": 4,
+            "date": "2026-10-02"
+          },
+          {
+            "id": "st04-kyrgyz-4",
+            "value": 5,
+            "date": "2026-10-21"
+          }
+        ],
+        "english": [
+          {
+            "id": "st04-english-1",
+            "value": 5,
+            "date": "2026-09-30"
+          },
+          {
+            "id": "st04-english-2",
+            "value": 4,
+            "date": "2026-10-26"
+          },
+          {
+            "id": "st04-english-3",
+            "value": 4,
+            "date": "2026-10-28"
+          }
+        ],
+        "physics": [
+          {
+            "id": "st04-physics-1",
+            "value": 3,
+            "date": "2026-09-11"
+          },
+          {
+            "id": "st04-physics-2",
+            "value": 4,
+            "date": "2026-10-15"
+          },
+          {
+            "id": "st04-physics-3",
+            "value": 4,
+            "date": "2026-10-22"
+          },
+          {
+            "id": "st04-physics-4",
+            "value": 5,
+            "date": "2026-11-10"
+          },
+          {
+            "id": "st04-physics-5",
+            "value": 4,
+            "date": "2026-11-17"
+          }
+        ],
+        "informatics": [
+          {
+            "id": "st04-informatics-1",
+            "value": 4,
+            "date": "2026-09-21"
+          },
+          {
+            "id": "st04-informatics-2",
+            "value": 3,
+            "date": "2026-09-24"
+          },
+          {
+            "id": "st04-informatics-3",
+            "value": 4,
+            "date": "2026-10-14"
+          },
+          {
+            "id": "st04-informatics-4",
+            "value": 5,
+            "date": "2026-10-29"
+          },
+          {
+            "id": "st04-informatics-5",
+            "value": 5,
+            "date": "2026-10-30"
+          },
+          {
+            "id": "st04-informatics-6",
+            "value": 3,
+            "date": "2026-11-17"
+          }
+        ],
+        "programming": [
+          {
+            "id": "st04-programming-1",
+            "value": 3,
+            "date": "2026-10-19"
+          },
+          {
+            "id": "st04-programming-2",
+            "value": 4,
+            "date": "2026-11-11",
+            "comment": "Самостоятельная работа"
+          },
+          {
+            "id": "st04-programming-3",
+            "value": 4,
+            "date": "2026-11-11"
+          },
+          {
+            "id": "st04-programming-4",
+            "value": 3,
+            "date": "2026-11-13"
+          }
+        ],
+        "history": [
+          {
+            "id": "st04-history-1",
+            "value": 4,
+            "date": "2026-09-11"
+          },
+          {
+            "id": "st04-history-2",
+            "value": 5,
+            "date": "2026-09-18"
+          },
+          {
+            "id": "st04-history-3",
+            "value": 3,
+            "date": "2026-10-05"
+          },
+          {
+            "id": "st04-history-4",
+            "value": 5,
+            "date": "2026-10-21"
+          },
+          {
+            "id": "st04-history-5",
+            "value": 5,
+            "date": "2026-10-23"
+          }
+        ]
+      }
+    },
+    {
+      "id": "st05",
+      "name": "Бегалиев Байэл Тариелович",
+      "grades": {
+        "math": [
+          {
+            "id": "st05-math-1",
+            "value": 5,
+            "date": "2026-09-10"
+          },
+          {
+            "id": "st05-math-2",
+            "value": 4,
+            "date": "2026-10-02",
+            "comment": "Домашнее задание"
+          },
+          {
+            "id": "st05-math-3",
+            "value": 5,
+            "date": "2026-10-07"
+          },
+          {
+            "id": "st05-math-4",
+            "value": 5,
+            "date": "2026-10-22"
+          },
+          {
+            "id": "st05-math-5",
+            "value": 5,
+            "date": "2026-11-04"
+          },
+          {
+            "id": "st05-math-6",
+            "value": 4,
+            "date": "2026-11-17"
+          }
+        ],
+        "russian": [
+          {
+            "id": "st05-russian-1",
+            "value": 5,
+            "date": "2026-09-02"
+          },
+          {
+            "id": "st05-russian-2",
+            "value": 5,
+            "date": "2026-09-23"
+          },
+          {
+            "id": "st05-russian-3",
+            "value": 4,
+            "date": "2026-09-23"
+          },
+          {
+            "id": "st05-russian-4",
+            "value": 3,
+            "date": "2026-11-03"
+          }
+        ],
+        "kyrgyz": [
+          {
+            "id": "st05-kyrgyz-1",
+            "value": 4,
+            "date": "2026-09-28"
+          },
+          {
+            "id": "st05-kyrgyz-2",
+            "value": 4,
+            "date": "2026-10-05"
+          },
+          {
+            "id": "st05-kyrgyz-3",
+            "value": 4,
+            "date": "2026-10-30",
+            "comment": "Ответ у доски"
+          }
+        ],
+        "english": [
+          {
+            "id": "st05-english-1",
+            "value": 3,
+            "date": "2026-09-17"
+          },
+          {
+            "id": "st05-english-2",
+            "value": 5,
+            "date": "2026-09-25"
+          },
+          {
+            "id": "st05-english-3",
+            "value": 4,
+            "date": "2026-11-10"
+          },
+          {
+            "id": "st05-english-4",
+            "value": 4,
+            "date": "2026-11-10",
+            "comment": "Домашнее задание"
+          }
+        ],
+        "physics": [
+          {
+            "id": "st05-physics-1",
+            "value": 5,
+            "date": "2026-09-15"
+          },
+          {
+            "id": "st05-physics-2",
+            "value": 3,
+            "date": "2026-10-22"
+          },
+          {
+            "id": "st05-physics-3",
+            "value": 3,
+            "date": "2026-11-16",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st05-physics-4",
+            "value": 4,
+            "date": "2026-11-20"
+          }
+        ],
+        "informatics": [
+          {
+            "id": "st05-informatics-1",
+            "value": 4,
+            "date": "2026-10-01"
+          },
+          {
+            "id": "st05-informatics-2",
+            "value": 5,
+            "date": "2026-10-13"
+          },
+          {
+            "id": "st05-informatics-3",
+            "value": 4,
+            "date": "2026-10-30"
+          }
+        ],
+        "programming": [
+          {
+            "id": "st05-programming-1",
+            "value": 5,
+            "date": "2026-09-22"
+          },
+          {
+            "id": "st05-programming-2",
+            "value": 4,
+            "date": "2026-09-28"
+          },
+          {
+            "id": "st05-programming-3",
+            "value": 5,
+            "date": "2026-09-29"
+          },
+          {
+            "id": "st05-programming-4",
+            "value": 5,
+            "date": "2026-10-28"
+          }
+        ],
+        "history": [
+          {
+            "id": "st05-history-1",
+            "value": 5,
+            "date": "2026-09-10"
+          },
+          {
+            "id": "st05-history-2",
+            "value": 4,
+            "date": "2026-10-08"
+          },
+          {
+            "id": "st05-history-3",
+            "value": 5,
+            "date": "2026-11-03"
+          },
+          {
+            "id": "st05-history-4",
+            "value": 4,
+            "date": "2026-11-11"
+          },
+          {
+            "id": "st05-history-5",
+            "value": 5,
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    },
+    {
+      "id": "st06",
+      "name": "Беков Бек Махмутжанович",
+      "grades": {
+        "math": [
+          {
+            "id": "st06-math-1",
+            "value": 4,
+            "date": "2026-09-11"
+          },
+          {
+            "id": "st06-math-2",
+            "value": 3,
+            "date": "2026-10-05"
+          },
+          {
+            "id": "st06-math-3",
+            "value": 2,
+            "date": "2026-11-13"
+          }
+        ],
+        "russian": [
+          {
+            "id": "st06-russian-1",
+            "value": 3,
+            "date": "2026-09-02"
+          },
+          {
+            "id": "st06-russian-2",
+            "value": 4,
+            "date": "2026-09-04"
+          },
+          {
+            "id": "st06-russian-3",
+            "value": 4,
+            "date": "2026-09-07"
+          },
+          {
+            "id": "st06-russian-4",
+            "value": 3,
+            "date": "2026-10-13"
+          },
+          {
+            "id": "st06-russian-5",
+            "value": 3,
+            "date": "2026-11-05"
+          }
+        ],
+        "kyrgyz": [
+          {
+            "id": "st06-kyrgyz-1",
+            "value": 3,
+            "date": "2026-09-09"
+          },
+          {
+            "id": "st06-kyrgyz-2",
+            "value": 2,
+            "date": "2026-10-05"
+          },
+          {
+            "id": "st06-kyrgyz-3",
+            "value": 4,
+            "date": "2026-10-22"
+          }
+        ],
+        "english": [
+          {
+            "id": "st06-english-1",
+            "value": 2,
+            "date": "2026-09-15"
+          },
+          {
+            "id": "st06-english-2",
+            "value": 2,
+            "date": "2026-10-01"
+          },
+          {
+            "id": "st06-english-3",
+            "value": 3,
+            "date": "2026-10-06"
+          },
+          {
+            "id": "st06-english-4",
+            "value": 3,
+            "date": "2026-11-16"
+          },
+          {
+            "id": "st06-english-5",
+            "value": 3,
+            "date": "2026-11-18"
+          }
+        ],
+        "physics": [
+          {
+            "id": "st06-physics-1",
+            "value": 2,
+            "date": "2026-09-30",
+            "comment": "Самостоятельная работа"
+          },
+          {
+            "id": "st06-physics-2",
+            "value": 4,
+            "date": "2026-10-07"
+          },
+          {
+            "id": "st06-physics-3",
+            "value": 4,
+            "date": "2026-10-08"
+          },
+          {
+            "id": "st06-physics-4",
+            "value": 4,
+            "date": "2026-10-22"
+          },
+          {
+            "id": "st06-physics-5",
+            "value": 3,
+            "date": "2026-11-20"
+          }
+        ],
+        "informatics": [
+          {
+            "id": "st06-informatics-1",
+            "value": 3,
+            "date": "2026-10-12"
+          },
+          {
+            "id": "st06-informatics-2",
+            "value": 4,
+            "date": "2026-10-14"
+          },
+          {
+            "id": "st06-informatics-3",
+            "value": 2,
+            "date": "2026-10-29"
+          }
+        ],
+        "programming": [
+          {
+            "id": "st06-programming-1",
+            "value": 2,
+            "date": "2026-10-02"
+          },
+          {
+            "id": "st06-programming-2",
+            "value": 3,
+            "date": "2026-10-06"
+          },
+          {
+            "id": "st06-programming-3",
+            "value": 4,
+            "date": "2026-10-09"
+          },
+          {
+            "id": "st06-programming-4",
+            "value": 2,
+            "date": "2026-10-19",
+            "comment": "Практическая работа"
+          },
+          {
+            "id": "st06-programming-5",
+            "value": 2,
+            "date": "2026-11-16"
+          }
+        ],
+        "history": [
+          {
+            "id": "st06-history-1",
+            "value": 2,
+            "date": "2026-09-07"
+          },
+          {
+            "id": "st06-history-2",
+            "value": 4,
+            "date": "2026-09-25"
+          },
+          {
+            "id": "st06-history-3",
+            "value": 4,
+            "date": "2026-10-30"
+          }
+        ]
+      }
+    },
+    {
+      "id": "st07",
+      "name": "Даузов Фархат Керимжанович",
+      "grades": {
+        "math": [
+          {
+            "id": "st07-math-1",
+            "value": 4,
+            "date": "2026-09-07"
+          },
+          {
+            "id": "st07-math-2",
+            "value": 3,
+            "date": "2026-10-02"
+          },
+          {
+            "id": "st07-math-3",
+            "value": 4,
+            "date": "2026-10-21",
+            "comment": "Самостоятельная работа"
+          },
+          {
+            "id": "st07-math-4",
+            "value": 3,
+            "date": "2026-10-28"
+          },
+          {
+            "id": "st07-math-5",
+            "value": 4,
+            "date": "2026-10-29"
+          }
+        ],
+        "russian": [
+          {
+            "id": "st07-russian-1",
+            "value": 3,
+            "date": "2026-09-03"
+          },
+          {
+            "id": "st07-russian-2",
+            "value": 4,
+            "date": "2026-10-12"
+          },
+          {
+            "id": "st07-russian-3",
+            "value": 4,
+            "date": "2026-10-22",
+            "comment": "Домашнее задание"
+          },
+          {
+            "id": "st07-russian-4",
+            "value": 3,
+            "date": "2026-11-20"
+          }
+        ],
+        "kyrgyz": [
+          {
+            "id": "st07-kyrgyz-1",
+            "value": 3,
+            "date": "2026-10-07"
+          },
+          {
+            "id": "st07-kyrgyz-2",
+            "value": 2,
+            "date": "2026-10-08"
+          },
+          {
+            "id": "st07-kyrgyz-3",
+            "value": 3,
+            "date": "2026-10-30"
+          },
+          {
+            "id": "st07-kyrgyz-4",
+            "value": 4,
+            "date": "2026-11-17",
+            "comment": "Самостоятельная работа"
+          }
+        ],
+        "english": [
+          {
+            "id": "st07-english-1",
+            "value": 4,
+            "date": "2026-09-11"
+          },
+          {
+            "id": "st07-english-2",
+            "value": 3,
+            "date": "2026-09-29"
+          },
+          {
+            "id": "st07-english-3",
+            "value": 4,
+            "date": "2026-10-05"
+          },
+          {
+            "id": "st07-english-4",
+            "value": 4,
+            "date": "2026-10-09"
+          },
+          {
+            "id": "st07-english-5",
+            "value": 3,
+            "date": "2026-10-29"
+          },
+          {
+            "id": "st07-english-6",
+            "value": 3,
+            "date": "2026-11-16"
+          }
+        ],
+        "physics": [
+          {
+            "id": "st07-physics-1",
+            "value": 4,
+            "date": "2026-09-04"
+          },
+          {
+            "id": "st07-physics-2",
+            "value": 4,
+            "date": "2026-10-06",
+            "comment": "Контрольная работа"
+          },
+          {
+            "id": "st07-physics-3",
+            "value": 4,
+            "date": "2026-11-06"
+          },
+          {
+            "id": "st07-physics-4",
+            "value": 4,
+            "date": "2026-11-10"
+          }
+        ],
+        "informatics": [
+          {
+            "id": "st07-informatics-1",
+            "value": 4,
+            "date": "2026-10-13"
+          },
+          {
+            "id": "st07-informatics-2",
+            "value": 2,
+            "date": "2026-10-30"
+          },
+          {
+            "id": "st07-informatics-3",
+            "value": 4,
+            "date": "2026-11-03"
+          }
+        ],
+        "programming": [
+          {
+            "id": "st07-programming-1",
+            "value": 4,
+            "date": "2026-09-09"
+          },
+          {
+            "id": "st07-programming-2",
+            "value": 2,
+            "date": "2026-09-10"
+          },
+          {
+            "id": "st07-programming-3",
+            "value": 4,
+            "date": "2026-09-18"
+          },
+          {
+            "id": "st07-programming-4",
+            "value": 2,
+            "date": "2026-09-23"
+          },
+          {
+            "id": "st07-programming-5",
+            "value": 4,
+            "date": "2026-10-29"
+          },
+          {
+            "id": "st07-programming-6",
+            "value": 3,
+            "date": "2026-10-30"
+          }
+        ],
+        "history": [
+          {
+            "id": "st07-history-1",
+            "value": 3,
+            "date": "2026-09-08"
+          },
+          {
+            "id": "st07-history-2",
+            "value": 4,
+            "date": "2026-09-14"
+          },
+          {
+            "id": "st07-history-3",
+            "value": 4,
+            "date": "2026-09-24",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st07-history-4",
+            "value": 4,
+            "date": "2026-11-02",
+            "comment": "Контрольная работа"
+          }
+        ]
+      }
+    },
+    {
+      "id": "st08",
+      "name": "Доктурбекова Анар Альбертовна",
+      "grades": {
+        "math": [
+          {
+            "id": "st08-math-1",
+            "value": 5,
+            "date": "2026-09-03"
+          },
+          {
+            "id": "st08-math-2",
+            "value": 5,
+            "date": "2026-10-29"
+          },
+          {
+            "id": "st08-math-3",
+            "value": 4,
+            "date": "2026-11-20",
+            "comment": "Ответ у доски"
+          }
+        ],
+        "russian": [
+          {
+            "id": "st08-russian-1",
+            "value": 3,
+            "date": "2026-09-02"
+          },
+          {
+            "id": "st08-russian-2",
+            "value": 4,
+            "date": "2026-10-07"
+          },
+          {
+            "id": "st08-russian-3",
+            "value": 4,
+            "date": "2026-11-03"
+          }
+        ],
+        "kyrgyz": [
+          {
+            "id": "st08-kyrgyz-1",
+            "value": 5,
+            "date": "2026-09-25"
+          },
+          {
+            "id": "st08-kyrgyz-2",
+            "value": 3,
+            "date": "2026-10-08"
+          },
+          {
+            "id": "st08-kyrgyz-3",
+            "value": 5,
+            "date": "2026-10-19",
+            "comment": "Самостоятельная работа"
+          }
+        ],
+        "english": [
+          {
+            "id": "st08-english-1",
+            "value": 4,
+            "date": "2026-09-29"
+          },
+          {
+            "id": "st08-english-2",
+            "value": 4,
+            "date": "2026-11-17"
+          },
+          {
+            "id": "st08-english-3",
+            "value": 4,
+            "date": "2026-11-20"
+          }
+        ],
+        "physics": [
+          {
+            "id": "st08-physics-1",
+            "value": 4,
+            "date": "2026-09-08"
+          },
+          {
+            "id": "st08-physics-2",
+            "value": 3,
+            "date": "2026-10-01"
+          },
+          {
+            "id": "st08-physics-3",
+            "value": 4,
+            "date": "2026-10-19"
+          },
+          {
+            "id": "st08-physics-4",
+            "value": 5,
+            "date": "2026-11-09"
+          }
+        ],
+        "informatics": [
+          {
+            "id": "st08-informatics-1",
+            "value": 4,
+            "date": "2026-09-16"
+          },
+          {
+            "id": "st08-informatics-2",
+            "value": 4,
+            "date": "2026-09-30"
+          },
+          {
+            "id": "st08-informatics-3",
+            "value": 4,
+            "date": "2026-10-14"
+          }
+        ],
+        "programming": [
+          {
+            "id": "st08-programming-1",
+            "value": 4,
+            "date": "2026-09-07"
+          },
+          {
+            "id": "st08-programming-2",
+            "value": 4,
+            "date": "2026-09-25"
+          },
+          {
+            "id": "st08-programming-3",
+            "value": 4,
+            "date": "2026-10-22"
+          },
+          {
+            "id": "st08-programming-4",
+            "value": 4,
+            "date": "2026-11-02"
+          }
+        ],
+        "history": [
+          {
+            "id": "st08-history-1",
+            "value": 4,
+            "date": "2026-09-03"
+          },
+          {
+            "id": "st08-history-2",
+            "value": 4,
+            "date": "2026-09-14",
+            "comment": "Самостоятельная работа"
+          },
+          {
+            "id": "st08-history-3",
+            "value": 4,
+            "date": "2026-09-17"
+          },
+          {
+            "id": "st08-history-4",
+            "value": 3,
+            "date": "2026-09-17"
+          },
+          {
+            "id": "st08-history-5",
+            "value": 4,
+            "date": "2026-09-29"
+          },
+          {
+            "id": "st08-history-6",
+            "value": 3,
+            "date": "2026-10-29"
+          }
+        ]
+      }
+    },
+    {
+      "id": "st09",
+      "name": "Жусупбеков Элдияр Жылдызбекович",
+      "grades": {
+        "math": [
+          {
+            "id": "st09-math-1",
+            "value": 4,
+            "date": "2026-09-29"
+          },
+          {
+            "id": "st09-math-2",
+            "value": 5,
+            "date": "2026-10-21",
+            "comment": "Контрольная работа"
+          },
+          {
+            "id": "st09-math-3",
+            "value": 5,
+            "date": "2026-10-23"
+          },
+          {
+            "id": "st09-math-4",
+            "value": 5,
+            "date": "2026-10-26"
+          },
+          {
+            "id": "st09-math-5",
+            "value": 4,
+            "date": "2026-11-05"
+          },
+          {
+            "id": "st09-math-6",
+            "value": 3,
+            "date": "2026-11-20"
+          }
+        ],
+        "russian": [
+          {
+            "id": "st09-russian-1",
+            "value": 4,
+            "date": "2026-09-22"
+          },
+          {
+            "id": "st09-russian-2",
+            "value": 4,
+            "date": "2026-10-02"
+          },
+          {
+            "id": "st09-russian-3",
+            "value": 4,
+            "date": "2026-10-27",
+            "comment": "Реферат"
+          },
+          {
+            "id": "st09-russian-4",
+            "value": 3,
+            "date": "2026-10-27"
+          }
+        ],
+        "kyrgyz": [
+          {
+            "id": "st09-kyrgyz-1",
+            "value": 4,
+            "date": "2026-09-03"
+          },
+          {
+            "id": "st09-kyrgyz-2",
+            "value": 5,
+            "date": "2026-09-29"
+          },
+          {
+            "id": "st09-kyrgyz-3",
+            "value": 4,
+            "date": "2026-10-28"
+          },
+          {
+            "id": "st09-kyrgyz-4",
+            "value": 4,
+            "date": "2026-11-10"
+          },
+          {
+            "id": "st09-kyrgyz-5",
+            "value": 5,
+            "date": "2026-11-20"
+          }
+        ],
+        "english": [
+          {
+            "id": "st09-english-1",
+            "value": 4,
+            "date": "2026-09-16"
+          },
+          {
+            "id": "st09-english-2",
+            "value": 3,
+            "date": "2026-10-12"
+          },
+          {
+            "id": "st09-english-3",
+            "value": 4,
+            "date": "2026-10-21"
+          },
+          {
+            "id": "st09-english-4",
+            "value": 5,
+            "date": "2026-11-02"
+          },
+          {
+            "id": "st09-english-5",
+            "value": 5,
+            "date": "2026-11-12"
+          },
+          {
+            "id": "st09-english-6",
+            "value": 4,
+            "date": "2026-11-18"
+          }
+        ],
+        "physics": [
+          {
+            "id": "st09-physics-1",
+            "value": 4,
+            "date": "2026-09-11"
+          },
+          {
+            "id": "st09-physics-2",
+            "value": 4,
+            "date": "2026-09-18"
+          },
+          {
+            "id": "st09-physics-3",
+            "value": 4,
+            "date": "2026-10-21",
+            "comment": "Контрольная работа"
+          },
+          {
+            "id": "st09-physics-4",
+            "value": 4,
+            "date": "2026-11-12"
+          },
+          {
+            "id": "st09-physics-5",
+            "value": 4,
+            "date": "2026-11-13"
+          }
+        ],
+        "informatics": [
+          {
+            "id": "st09-informatics-1",
+            "value": 3,
+            "date": "2026-09-09"
+          },
+          {
+            "id": "st09-informatics-2",
+            "value": 4,
+            "date": "2026-09-09",
+            "comment": "Реферат"
+          },
+          {
+            "id": "st09-informatics-3",
+            "value": 4,
+            "date": "2026-10-01"
+          },
+          {
+            "id": "st09-informatics-4",
+            "value": 4,
+            "date": "2026-10-09"
+          },
+          {
+            "id": "st09-informatics-5",
+            "value": 4,
+            "date": "2026-10-21"
+          },
+          {
+            "id": "st09-informatics-6",
+            "value": 3,
+            "date": "2026-11-16"
+          }
+        ],
+        "programming": [
+          {
+            "id": "st09-programming-1",
+            "value": 5,
+            "date": "2026-09-16"
+          },
+          {
+            "id": "st09-programming-2",
+            "value": 4,
+            "date": "2026-09-24"
+          },
+          {
+            "id": "st09-programming-3",
+            "value": 4,
+            "date": "2026-10-08"
+          },
+          {
+            "id": "st09-programming-4",
+            "value": 5,
+            "date": "2026-11-11"
+          },
+          {
+            "id": "st09-programming-5",
+            "value": 4,
+            "date": "2026-11-17"
+          }
+        ],
+        "history": [
+          {
+            "id": "st09-history-1",
+            "value": 4,
+            "date": "2026-09-22"
+          },
+          {
+            "id": "st09-history-2",
+            "value": 3,
+            "date": "2026-09-29"
+          },
+          {
+            "id": "st09-history-3",
+            "value": 3,
+            "date": "2026-10-22"
+          },
+          {
+            "id": "st09-history-4",
+            "value": 3,
+            "date": "2026-11-09"
+          },
+          {
+            "id": "st09-history-5",
+            "value": 3,
+            "date": "2026-11-10"
+          },
+          {
+            "id": "st09-history-6",
+            "value": 3,
+            "date": "2026-11-20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "st10",
+      "name": "Жыргалбекова Асема Жыргалбековна",
+      "grades": {
+        "math": [
+          {
+            "id": "st10-math-1",
+            "value": 3,
+            "date": "2026-09-16"
+          },
+          {
+            "id": "st10-math-2",
+            "value": 2,
+            "date": "2026-09-21"
+          },
+          {
+            "id": "st10-math-3",
+            "value": 4,
+            "date": "2026-10-28"
+          },
+          {
+            "id": "st10-math-4",
+            "value": 3,
+            "date": "2026-11-03"
+          }
+        ],
+        "russian": [
+          {
+            "id": "st10-russian-1",
+            "value": 3,
+            "date": "2026-09-18"
+          },
+          {
+            "id": "st10-russian-2",
+            "value": 2,
+            "date": "2026-10-09"
+          },
+          {
+            "id": "st10-russian-3",
+            "value": 2,
+            "date": "2026-11-06"
+          },
+          {
+            "id": "st10-russian-4",
+            "value": 2,
+            "date": "2026-11-20"
+          }
+        ],
+        "kyrgyz": [
+          {
+            "id": "st10-kyrgyz-1",
+            "value": 3,
+            "date": "2026-09-11"
+          },
+          {
+            "id": "st10-kyrgyz-2",
+            "value": 3,
+            "date": "2026-09-30"
+          },
+          {
+            "id": "st10-kyrgyz-3",
+            "value": 2,
+            "date": "2026-10-12"
+          },
+          {
+            "id": "st10-kyrgyz-4",
+            "value": 2,
+            "date": "2026-11-18"
+          }
+        ],
+        "english": [
+          {
+            "id": "st10-english-1",
+            "value": 3,
+            "date": "2026-09-07"
+          },
+          {
+            "id": "st10-english-2",
+            "value": 3,
+            "date": "2026-09-25"
+          },
+          {
+            "id": "st10-english-3",
+            "value": 2,
+            "date": "2026-11-05"
+          },
+          {
+            "id": "st10-english-4",
+            "value": 2,
+            "date": "2026-11-13"
+          }
+        ],
+        "physics": [
+          {
+            "id": "st10-physics-1",
+            "value": 2,
+            "date": "2026-09-21"
+          },
+          {
+            "id": "st10-physics-2",
+            "value": 3,
+            "date": "2026-10-26"
+          },
+          {
+            "id": "st10-physics-3",
+            "value": 2,
+            "date": "2026-11-17"
+          }
+        ],
+        "informatics": [
+          {
+            "id": "st10-informatics-1",
+            "value": 3,
+            "date": "2026-09-25"
+          },
+          {
+            "id": "st10-informatics-2",
+            "value": 2,
+            "date": "2026-10-01"
+          },
+          {
+            "id": "st10-informatics-3",
+            "value": 3,
+            "date": "2026-11-03"
+          },
+          {
+            "id": "st10-informatics-4",
+            "value": 2,
+            "date": "2026-11-04"
+          },
+          {
+            "id": "st10-informatics-5",
+            "value": 2,
+            "date": "2026-11-05"
+          }
+        ],
+        "programming": [
+          {
+            "id": "st10-programming-1",
+            "value": 2,
+            "date": "2026-09-11"
+          },
+          {
+            "id": "st10-programming-2",
+            "value": 2,
+            "date": "2026-10-13"
+          },
+          {
+            "id": "st10-programming-3",
+            "value": 3,
+            "date": "2026-11-06"
+          }
+        ],
+        "history": [
+          {
+            "id": "st10-history-1",
+            "value": 3,
+            "date": "2026-09-28"
+          },
+          {
+            "id": "st10-history-2",
+            "value": 2,
+            "date": "2026-10-02"
+          },
+          {
+            "id": "st10-history-3",
+            "value": 2,
+            "date": "2026-10-16"
+          }
+        ]
+      }
+    },
+    {
+      "id": "st11",
+      "name": "Казыкеев Нурзамат Нуржалилович",
+      "grades": {
+        "math": [
+          {
+            "id": "st11-math-1",
+            "value": 3,
+            "date": "2026-09-02"
+          },
+          {
+            "id": "st11-math-2",
+            "value": 3,
+            "date": "2026-09-16"
+          },
+          {
+            "id": "st11-math-3",
+            "value": 4,
+            "date": "2026-09-24",
+            "comment": "Контрольная работа"
+          },
+          {
+            "id": "st11-math-4",
+            "value": 3,
+            "date": "2026-09-29",
+            "comment": "Контрольная работа"
+          },
+          {
+            "id": "st11-math-5",
+            "value": 3,
+            "date": "2026-10-12"
+          }
+        ],
+        "russian": [
+          {
+            "id": "st11-russian-1",
+            "value": 3,
+            "date": "2026-09-11",
+            "comment": "Реферат"
+          },
+          {
+            "id": "st11-russian-2",
+            "value": 5,
+            "date": "2026-10-16"
+          },
+          {
+            "id": "st11-russian-3",
+            "value": 4,
+            "date": "2026-11-13"
+          }
+        ],
+        "kyrgyz": [
+          {
+            "id": "st11-kyrgyz-1",
+            "value": 3,
+            "date": "2026-09-15"
+          },
+          {
+            "id": "st11-kyrgyz-2",
+            "value": 4,
+            "date": "2026-10-23",
+            "comment": "Реферат"
+          },
+          {
+            "id": "st11-kyrgyz-3",
+            "value": 4,
+            "date": "2026-10-27"
+          },
+          {
+            "id": "st11-kyrgyz-4",
+            "value": 4,
+            "date": "2026-11-02"
+          }
+        ],
+        "english": [
+          {
+            "id": "st11-english-1",
+            "value": 4,
+            "date": "2026-09-07"
+          },
+          {
+            "id": "st11-english-2",
+            "value": 4,
+            "date": "2026-09-10"
+          },
+          {
+            "id": "st11-english-3",
+            "value": 3,
+            "date": "2026-10-09"
+          },
+          {
+            "id": "st11-english-4",
+            "value": 4,
+            "date": "2026-10-29"
+          }
+        ],
+        "physics": [
+          {
+            "id": "st11-physics-1",
+            "value": 3,
+            "date": "2026-09-10"
+          },
+          {
+            "id": "st11-physics-2",
+            "value": 3,
+            "date": "2026-09-24",
+            "comment": "Практическая работа"
+          },
+          {
+            "id": "st11-physics-3",
+            "value": 3,
+            "date": "2026-10-12"
+          }
+        ],
+        "informatics": [
+          {
+            "id": "st11-informatics-1",
+            "value": 5,
+            "date": "2026-09-03"
+          },
+          {
+            "id": "st11-informatics-2",
+            "value": 3,
+            "date": "2026-09-16"
+          },
+          {
+            "id": "st11-informatics-3",
+            "value": 5,
+            "date": "2026-10-12"
+          },
+          {
+            "id": "st11-informatics-4",
+            "value": 3,
+            "date": "2026-10-14"
+          },
+          {
+            "id": "st11-informatics-5",
+            "value": 4,
+            "date": "2026-10-29"
+          },
+          {
+            "id": "st11-informatics-6",
+            "value": 5,
+            "date": "2026-11-11"
+          }
+        ],
+        "programming": [
+          {
+            "id": "st11-programming-1",
+            "value": 4,
+            "date": "2026-10-07"
+          },
+          {
+            "id": "st11-programming-2",
+            "value": 5,
+            "date": "2026-10-23"
+          },
+          {
+            "id": "st11-programming-3",
+            "value": 4,
+            "date": "2026-10-27",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st11-programming-4",
+            "value": 3,
+            "date": "2026-10-30"
+          },
+          {
+            "id": "st11-programming-5",
+            "value": 3,
+            "date": "2026-11-13"
+          },
+          {
+            "id": "st11-programming-6",
+            "value": 4,
+            "date": "2026-11-16"
+          }
+        ],
+        "history": [
+          {
+            "id": "st11-history-1",
+            "value": 3,
+            "date": "2026-09-07"
+          },
+          {
+            "id": "st11-history-2",
+            "value": 4,
+            "date": "2026-09-09"
+          },
+          {
+            "id": "st11-history-3",
+            "value": 3,
+            "date": "2026-09-28",
+            "comment": "Практическая работа"
+          },
+          {
+            "id": "st11-history-4",
+            "value": 4,
+            "date": "2026-10-13",
+            "comment": "Домашнее задание"
+          }
+        ]
+      }
+    },
+    {
+      "id": "st12",
+      "name": "Карыбеков Бексултан Мелисович",
+      "grades": {
+        "math": [
+          {
+            "id": "st12-math-1",
+            "value": 3,
+            "date": "2026-09-02"
+          },
+          {
+            "id": "st12-math-2",
+            "value": 4,
+            "date": "2026-09-02",
+            "comment": "Реферат"
+          },
+          {
+            "id": "st12-math-3",
+            "value": 4,
+            "date": "2026-09-21"
+          },
+          {
+            "id": "st12-math-4",
+            "value": 4,
+            "date": "2026-10-16"
+          },
+          {
+            "id": "st12-math-5",
+            "value": 4,
+            "date": "2026-11-16"
+          }
+        ],
+        "russian": [
+          {
+            "id": "st12-russian-1",
+            "value": 3,
+            "date": "2026-09-03"
+          },
+          {
+            "id": "st12-russian-2",
+            "value": 5,
+            "date": "2026-10-02"
+          },
+          {
+            "id": "st12-russian-3",
+            "value": 3,
+            "date": "2026-10-05"
+          },
+          {
+            "id": "st12-russian-4",
+            "value": 4,
+            "date": "2026-10-06"
+          },
+          {
+            "id": "st12-russian-5",
+            "value": 4,
+            "date": "2026-10-21"
+          },
+          {
+            "id": "st12-russian-6",
+            "value": 4,
+            "date": "2026-11-20"
+          }
+        ],
+        "kyrgyz": [
+          {
+            "id": "st12-kyrgyz-1",
+            "value": 3,
+            "date": "2026-09-03"
+          },
+          {
+            "id": "st12-kyrgyz-2",
+            "value": 4,
+            "date": "2026-09-15"
+          },
+          {
+            "id": "st12-kyrgyz-3",
+            "value": 4,
+            "date": "2026-09-28"
+          },
+          {
+            "id": "st12-kyrgyz-4",
+            "value": 4,
+            "date": "2026-10-13"
+          },
+          {
+            "id": "st12-kyrgyz-5",
+            "value": 4,
+            "date": "2026-10-16"
+          },
+          {
+            "id": "st12-kyrgyz-6",
+            "value": 3,
+            "date": "2026-11-10",
+            "comment": "Самостоятельная работа"
+          }
+        ],
+        "english": [
+          {
+            "id": "st12-english-1",
+            "value": 4,
+            "date": "2026-09-14"
+          },
+          {
+            "id": "st12-english-2",
+            "value": 4,
+            "date": "2026-09-24"
+          },
+          {
+            "id": "st12-english-3",
+            "value": 3,
+            "date": "2026-10-07",
+            "comment": "Контрольная работа"
+          },
+          {
+            "id": "st12-english-4",
+            "value": 4,
+            "date": "2026-10-12"
+          },
+          {
+            "id": "st12-english-5",
+            "value": 3,
+            "date": "2026-10-26"
+          },
+          {
+            "id": "st12-english-6",
+            "value": 4,
+            "date": "2026-11-06"
+          }
+        ],
+        "physics": [
+          {
+            "id": "st12-physics-1",
+            "value": 4,
+            "date": "2026-09-23",
+            "comment": "Реферат"
+          },
+          {
+            "id": "st12-physics-2",
+            "value": 4,
+            "date": "2026-10-19"
+          },
+          {
+            "id": "st12-physics-3",
+            "value": 4,
+            "date": "2026-10-21"
+          },
+          {
+            "id": "st12-physics-4",
+            "value": 4,
+            "date": "2026-11-11"
+          }
+        ],
+        "informatics": [
+          {
+            "id": "st12-informatics-1",
+            "value": 4,
+            "date": "2026-09-14"
+          },
+          {
+            "id": "st12-informatics-2",
+            "value": 5,
+            "date": "2026-09-16"
+          },
+          {
+            "id": "st12-informatics-3",
+            "value": 5,
+            "date": "2026-10-12"
+          },
+          {
+            "id": "st12-informatics-4",
+            "value": 4,
+            "date": "2026-11-12"
+          },
+          {
+            "id": "st12-informatics-5",
+            "value": 5,
+            "date": "2026-11-20"
+          }
+        ],
+        "programming": [
+          {
+            "id": "st12-programming-1",
+            "value": 3,
+            "date": "2026-09-29"
+          },
+          {
+            "id": "st12-programming-2",
+            "value": 5,
+            "date": "2026-10-08",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st12-programming-3",
+            "value": 5,
+            "date": "2026-10-14",
+            "comment": "Контрольная работа"
+          },
+          {
+            "id": "st12-programming-4",
+            "value": 5,
+            "date": "2026-11-03"
+          },
+          {
+            "id": "st12-programming-5",
+            "value": 5,
+            "date": "2026-11-19"
+          }
+        ],
+        "history": [
+          {
+            "id": "st12-history-1",
+            "value": 3,
+            "date": "2026-09-03"
+          },
+          {
+            "id": "st12-history-2",
+            "value": 5,
+            "date": "2026-10-29"
+          },
+          {
+            "id": "st12-history-3",
+            "value": 5,
+            "date": "2026-11-05"
+          }
+        ]
+      }
+    },
+    {
+      "id": "st13",
+      "name": "Маматазимов Темирбек Бакытович",
+      "grades": {
+        "math": [
+          {
+            "id": "st13-math-1",
+            "value": 3,
+            "date": "2026-09-04"
+          },
+          {
+            "id": "st13-math-2",
+            "value": 4,
+            "date": "2026-09-10"
+          },
+          {
+            "id": "st13-math-3",
+            "value": 4,
+            "date": "2026-09-24"
+          },
+          {
+            "id": "st13-math-4",
+            "value": 4,
+            "date": "2026-09-29",
+            "comment": "Ответ у доски"
+          }
+        ],
+        "russian": [
+          {
+            "id": "st13-russian-1",
+            "value": 4,
+            "date": "2026-09-02"
+          },
+          {
+            "id": "st13-russian-2",
+            "value": 4,
+            "date": "2026-10-12",
+            "comment": "Практическая работа"
+          },
+          {
+            "id": "st13-russian-3",
+            "value": 4,
+            "date": "2026-11-11"
+          }
+        ],
+        "kyrgyz": [
+          {
+            "id": "st13-kyrgyz-1",
+            "value": 4,
+            "date": "2026-10-01"
+          },
+          {
+            "id": "st13-kyrgyz-2",
+            "value": 4,
+            "date": "2026-10-28"
+          },
+          {
+            "id": "st13-kyrgyz-3",
+            "value": 3,
+            "date": "2026-11-09",
+            "comment": "Домашнее задание"
+          },
+          {
+            "id": "st13-kyrgyz-4",
+            "value": 4,
+            "date": "2026-11-12"
+          },
+          {
+            "id": "st13-kyrgyz-5",
+            "value": 4,
+            "date": "2026-11-19"
+          }
+        ],
+        "english": [
+          {
+            "id": "st13-english-1",
+            "value": 3,
+            "date": "2026-09-11"
+          },
+          {
+            "id": "st13-english-2",
+            "value": 3,
+            "date": "2026-09-11"
+          },
+          {
+            "id": "st13-english-3",
+            "value": 4,
+            "date": "2026-09-18"
+          },
+          {
+            "id": "st13-english-4",
+            "value": 3,
+            "date": "2026-10-08",
+            "comment": "Реферат"
+          },
+          {
+            "id": "st13-english-5",
+            "value": 4,
+            "date": "2026-10-20"
+          },
+          {
+            "id": "st13-english-6",
+            "value": 3,
+            "date": "2026-10-29"
+          }
+        ],
+        "physics": [
+          {
+            "id": "st13-physics-1",
+            "value": 3,
+            "date": "2026-09-28"
+          },
+          {
+            "id": "st13-physics-2",
+            "value": 4,
+            "date": "2026-09-30"
+          },
+          {
+            "id": "st13-physics-3",
+            "value": 4,
+            "date": "2026-10-06"
+          },
+          {
+            "id": "st13-physics-4",
+            "value": 3,
+            "date": "2026-10-26"
+          },
+          {
+            "id": "st13-physics-5",
+            "value": 4,
+            "date": "2026-11-06"
+          }
+        ],
+        "informatics": [
+          {
+            "id": "st13-informatics-1",
+            "value": 3,
+            "date": "2026-09-11"
+          },
+          {
+            "id": "st13-informatics-2",
+            "value": 3,
+            "date": "2026-09-25"
+          },
+          {
+            "id": "st13-informatics-3",
+            "value": 2,
+            "date": "2026-10-08"
+          },
+          {
+            "id": "st13-informatics-4",
+            "value": 3,
+            "date": "2026-10-20"
+          },
+          {
+            "id": "st13-informatics-5",
+            "value": 4,
+            "date": "2026-10-30"
+          }
+        ],
+        "programming": [
+          {
+            "id": "st13-programming-1",
+            "value": 4,
+            "date": "2026-09-18"
+          },
+          {
+            "id": "st13-programming-2",
+            "value": 4,
+            "date": "2026-10-19"
+          },
+          {
+            "id": "st13-programming-3",
+            "value": 2,
+            "date": "2026-11-11"
+          },
+          {
+            "id": "st13-programming-4",
+            "value": 4,
+            "date": "2026-11-16",
+            "comment": "Домашнее задание"
+          },
+          {
+            "id": "st13-programming-5",
+            "value": 3,
+            "date": "2026-11-17"
+          }
+        ],
+        "history": [
+          {
+            "id": "st13-history-1",
+            "value": 4,
+            "date": "2026-09-17"
+          },
+          {
+            "id": "st13-history-2",
+            "value": 4,
+            "date": "2026-10-06"
+          },
+          {
+            "id": "st13-history-3",
+            "value": 4,
+            "date": "2026-11-02"
+          },
+          {
+            "id": "st13-history-4",
+            "value": 3,
+            "date": "2026-11-05"
+          },
+          {
+            "id": "st13-history-5",
+            "value": 3,
+            "date": "2026-11-09"
+          },
+          {
+            "id": "st13-history-6",
+            "value": 3,
+            "date": "2026-11-19"
+          }
+        ]
+      }
+    },
+    {
+      "id": "st14",
+      "name": "Манлязова Фатима Исмаровна",
+      "grades": {
+        "math": [
+          {
+            "id": "st14-math-1",
+            "value": 4,
+            "date": "2026-09-07"
+          },
+          {
+            "id": "st14-math-2",
+            "value": 5,
+            "date": "2026-09-17"
+          },
+          {
+            "id": "st14-math-3",
+            "value": 4,
+            "date": "2026-10-06"
+          },
+          {
+            "id": "st14-math-4",
+            "value": 4,
+            "date": "2026-10-16"
+          }
+        ],
+        "russian": [
+          {
+            "id": "st14-russian-1",
+            "value": 5,
+            "date": "2026-09-28",
+            "comment": "Контрольная работа"
+          },
+          {
+            "id": "st14-russian-2",
+            "value": 4,
+            "date": "2026-10-01"
+          },
+          {
+            "id": "st14-russian-3",
+            "value": 5,
+            "date": "2026-10-22"
+          },
+          {
+            "id": "st14-russian-4",
+            "value": 5,
+            "date": "2026-10-30"
+          },
+          {
+            "id": "st14-russian-5",
+            "value": 5,
+            "date": "2026-11-05"
+          }
+        ],
+        "kyrgyz": [
+          {
+            "id": "st14-kyrgyz-1",
+            "value": 4,
+            "date": "2026-09-23",
+            "comment": "Практическая работа"
+          },
+          {
+            "id": "st14-kyrgyz-2",
+            "value": 4,
+            "date": "2026-10-05"
+          },
+          {
+            "id": "st14-kyrgyz-3",
+            "value": 3,
+            "date": "2026-10-14",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st14-kyrgyz-4",
+            "value": 5,
+            "date": "2026-10-20"
+          },
+          {
+            "id": "st14-kyrgyz-5",
+            "value": 4,
+            "date": "2026-11-13"
+          }
+        ],
+        "english": [
+          {
+            "id": "st14-english-1",
+            "value": 4,
+            "date": "2026-09-17"
+          },
+          {
+            "id": "st14-english-2",
+            "value": 5,
+            "date": "2026-10-02",
+            "comment": "Контрольная работа"
+          },
+          {
+            "id": "st14-english-3",
+            "value": 5,
+            "date": "2026-10-02"
+          },
+          {
+            "id": "st14-english-4",
+            "value": 5,
+            "date": "2026-11-02"
+          }
+        ],
+        "physics": [
+          {
+            "id": "st14-physics-1",
+            "value": 5,
+            "date": "2026-09-21",
+            "comment": "Самостоятельная работа"
+          },
+          {
+            "id": "st14-physics-2",
+            "value": 5,
+            "date": "2026-10-06"
+          },
+          {
+            "id": "st14-physics-3",
+            "value": 5,
+            "date": "2026-10-14"
+          },
+          {
+            "id": "st14-physics-4",
+            "value": 4,
+            "date": "2026-10-30"
+          },
+          {
+            "id": "st14-physics-5",
+            "value": 4,
+            "date": "2026-11-18",
+            "comment": "Домашнее задание"
+          }
+        ],
+        "informatics": [
+          {
+            "id": "st14-informatics-1",
+            "value": 4,
+            "date": "2026-09-08",
+            "comment": "Домашнее задание"
+          },
+          {
+            "id": "st14-informatics-2",
+            "value": 4,
+            "date": "2026-09-15"
+          },
+          {
+            "id": "st14-informatics-3",
+            "value": 5,
+            "date": "2026-11-13",
+            "comment": "Практическая работа"
+          },
+          {
+            "id": "st14-informatics-4",
+            "value": 5,
+            "date": "2026-11-17"
+          }
+        ],
+        "programming": [
+          {
+            "id": "st14-programming-1",
+            "value": 5,
+            "date": "2026-10-27",
+            "comment": "Домашнее задание"
+          },
+          {
+            "id": "st14-programming-2",
+            "value": 5,
+            "date": "2026-10-29"
+          },
+          {
+            "id": "st14-programming-3",
+            "value": 5,
+            "date": "2026-11-11"
+          }
+        ],
+        "history": [
+          {
+            "id": "st14-history-1",
+            "value": 4,
+            "date": "2026-09-14"
+          },
+          {
+            "id": "st14-history-2",
+            "value": 5,
+            "date": "2026-10-16"
+          },
+          {
+            "id": "st14-history-3",
+            "value": 4,
+            "date": "2026-10-27"
+          }
+        ]
+      }
+    },
+    {
+      "id": "st15",
+      "name": "Музрабов Мирзабахрам Адхамбек угли",
+      "grades": {
+        "math": [
+          {
+            "id": "st15-math-1",
+            "value": 5,
+            "date": "2026-09-30"
+          },
+          {
+            "id": "st15-math-2",
+            "value": 3,
+            "date": "2026-11-11"
+          },
+          {
+            "id": "st15-math-3",
+            "value": 4,
+            "date": "2026-11-17"
+          }
+        ],
+        "russian": [
+          {
+            "id": "st15-russian-1",
+            "value": 5,
+            "date": "2026-10-14"
+          },
+          {
+            "id": "st15-russian-2",
+            "value": 4,
+            "date": "2026-10-28"
+          },
+          {
+            "id": "st15-russian-3",
+            "value": 4,
+            "date": "2026-11-09"
+          }
+        ],
+        "kyrgyz": [
+          {
+            "id": "st15-kyrgyz-1",
+            "value": 4,
+            "date": "2026-09-30"
+          },
+          {
+            "id": "st15-kyrgyz-2",
+            "value": 3,
+            "date": "2026-10-20"
+          },
+          {
+            "id": "st15-kyrgyz-3",
+            "value": 3,
+            "date": "2026-10-29"
+          },
+          {
+            "id": "st15-kyrgyz-4",
+            "value": 5,
+            "date": "2026-11-12",
+            "comment": "Реферат"
+          },
+          {
+            "id": "st15-kyrgyz-5",
+            "value": 4,
+            "date": "2026-11-13"
+          },
+          {
+            "id": "st15-kyrgyz-6",
+            "value": 4,
+            "date": "2026-11-19",
+            "comment": "Реферат"
+          }
+        ],
+        "english": [
+          {
+            "id": "st15-english-1",
+            "value": 4,
+            "date": "2026-09-11",
+            "comment": "Самостоятельная работа"
+          },
+          {
+            "id": "st15-english-2",
+            "value": 4,
+            "date": "2026-10-02"
+          },
+          {
+            "id": "st15-english-3",
+            "value": 3,
+            "date": "2026-10-15"
+          },
+          {
+            "id": "st15-english-4",
+            "value": 3,
+            "date": "2026-10-30"
+          },
+          {
+            "id": "st15-english-5",
+            "value": 3,
+            "date": "2026-11-02"
+          },
+          {
+            "id": "st15-english-6",
+            "value": 4,
+            "date": "2026-11-18"
+          }
+        ],
+        "physics": [
+          {
+            "id": "st15-physics-1",
+            "value": 5,
+            "date": "2026-09-07"
+          },
+          {
+            "id": "st15-physics-2",
+            "value": 3,
+            "date": "2026-09-10"
+          },
+          {
+            "id": "st15-physics-3",
+            "value": 4,
+            "date": "2026-09-24"
+          },
+          {
+            "id": "st15-physics-4",
+            "value": 4,
+            "date": "2026-11-05"
+          },
+          {
+            "id": "st15-physics-5",
+            "value": 3,
+            "date": "2026-11-19"
+          }
+        ],
+        "informatics": [
+          {
+            "id": "st15-informatics-1",
+            "value": 3,
+            "date": "2026-09-07"
+          },
+          {
+            "id": "st15-informatics-2",
+            "value": 4,
+            "date": "2026-09-14"
+          },
+          {
+            "id": "st15-informatics-3",
+            "value": 5,
+            "date": "2026-09-25",
+            "comment": "Практическая работа"
+          },
+          {
+            "id": "st15-informatics-4",
+            "value": 5,
+            "date": "2026-09-30"
+          },
+          {
+            "id": "st15-informatics-5",
+            "value": 5,
+            "date": "2026-11-05"
+          },
+          {
+            "id": "st15-informatics-6",
+            "value": 4,
+            "date": "2026-11-09"
+          }
+        ],
+        "programming": [
+          {
+            "id": "st15-programming-1",
+            "value": 4,
+            "date": "2026-09-02"
+          },
+          {
+            "id": "st15-programming-2",
+            "value": 4,
+            "date": "2026-09-03",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st15-programming-3",
+            "value": 3,
+            "date": "2026-10-23"
+          },
+          {
+            "id": "st15-programming-4",
+            "value": 4,
+            "date": "2026-11-04"
+          },
+          {
+            "id": "st15-programming-5",
+            "value": 4,
+            "date": "2026-11-11"
+          },
+          {
+            "id": "st15-programming-6",
+            "value": 5,
+            "date": "2026-11-19",
+            "comment": "Реферат"
+          }
+        ],
+        "history": [
+          {
+            "id": "st15-history-1",
+            "value": 4,
+            "date": "2026-09-18",
+            "comment": "Домашнее задание"
+          },
+          {
+            "id": "st15-history-2",
+            "value": 4,
+            "date": "2026-09-23"
+          },
+          {
+            "id": "st15-history-3",
+            "value": 4,
+            "date": "2026-10-02"
+          },
+          {
+            "id": "st15-history-4",
+            "value": 3,
+            "date": "2026-10-12"
+          },
+          {
+            "id": "st15-history-5",
+            "value": 5,
+            "date": "2026-10-28",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st15-history-6",
+            "value": 3,
+            "date": "2026-11-09",
+            "comment": "Ответ у доски"
+          }
+        ]
+      }
+    },
+    {
+      "id": "st16",
+      "name": "Мухтаров Билал Мухтарович",
+      "grades": {
+        "math": [
+          {
+            "id": "st16-math-1",
+            "value": 2,
+            "date": "2026-09-02"
+          },
+          {
+            "id": "st16-math-2",
+            "value": 2,
+            "date": "2026-09-07"
+          },
+          {
+            "id": "st16-math-3",
+            "value": 3,
+            "date": "2026-09-11"
+          },
+          {
+            "id": "st16-math-4",
+            "value": 3,
+            "date": "2026-09-17"
+          }
+        ],
+        "russian": [
+          {
+            "id": "st16-russian-1",
+            "value": 3,
+            "date": "2026-09-10"
+          },
+          {
+            "id": "st16-russian-2",
+            "value": 2,
+            "date": "2026-10-01"
+          },
+          {
+            "id": "st16-russian-3",
+            "value": 3,
+            "date": "2026-10-15",
+            "comment": "Реферат"
+          },
+          {
+            "id": "st16-russian-4",
+            "value": 2,
+            "date": "2026-11-16"
+          }
+        ],
+        "kyrgyz": [
+          {
+            "id": "st16-kyrgyz-1",
+            "value": 4,
+            "date": "2026-09-18"
+          },
+          {
+            "id": "st16-kyrgyz-2",
+            "value": 4,
+            "date": "2026-09-25",
+            "comment": "Домашнее задание"
+          },
+          {
+            "id": "st16-kyrgyz-3",
+            "value": 3,
+            "date": "2026-09-30"
+          },
+          {
+            "id": "st16-kyrgyz-4",
+            "value": 4,
+            "date": "2026-10-05"
+          },
+          {
+            "id": "st16-kyrgyz-5",
+            "value": 3,
+            "date": "2026-10-09"
+          },
+          {
+            "id": "st16-kyrgyz-6",
+            "value": 3,
+            "date": "2026-11-09"
+          }
+        ],
+        "english": [
+          {
+            "id": "st16-english-1",
+            "value": 3,
+            "date": "2026-09-14"
+          },
+          {
+            "id": "st16-english-2",
+            "value": 4,
+            "date": "2026-10-16"
+          },
+          {
+            "id": "st16-english-3",
+            "value": 3,
+            "date": "2026-10-26"
+          },
+          {
+            "id": "st16-english-4",
+            "value": 4,
+            "date": "2026-11-20"
+          }
+        ],
+        "physics": [
+          {
+            "id": "st16-physics-1",
+            "value": 4,
+            "date": "2026-09-04"
+          },
+          {
+            "id": "st16-physics-2",
+            "value": 4,
+            "date": "2026-09-17"
+          },
+          {
+            "id": "st16-physics-3",
+            "value": 3,
+            "date": "2026-10-08"
+          },
+          {
+            "id": "st16-physics-4",
+            "value": 3,
+            "date": "2026-11-11"
+          }
+        ],
+        "informatics": [
+          {
+            "id": "st16-informatics-1",
+            "value": 4,
+            "date": "2026-09-15",
+            "comment": "Практическая работа"
+          },
+          {
+            "id": "st16-informatics-2",
+            "value": 3,
+            "date": "2026-09-17"
+          },
+          {
+            "id": "st16-informatics-3",
+            "value": 3,
+            "date": "2026-09-28"
+          },
+          {
+            "id": "st16-informatics-4",
+            "value": 4,
+            "date": "2026-10-09"
+          },
+          {
+            "id": "st16-informatics-5",
+            "value": 3,
+            "date": "2026-10-09"
+          },
+          {
+            "id": "st16-informatics-6",
+            "value": 3,
+            "date": "2026-11-17"
+          }
+        ],
+        "programming": [
+          {
+            "id": "st16-programming-1",
+            "value": 4,
+            "date": "2026-09-22"
+          },
+          {
+            "id": "st16-programming-2",
+            "value": 2,
+            "date": "2026-09-25"
+          },
+          {
+            "id": "st16-programming-3",
+            "value": 3,
+            "date": "2026-09-28"
+          },
+          {
+            "id": "st16-programming-4",
+            "value": 3,
+            "date": "2026-10-23"
+          },
+          {
+            "id": "st16-programming-5",
+            "value": 4,
+            "date": "2026-11-06"
+          }
+        ],
+        "history": [
+          {
+            "id": "st16-history-1",
+            "value": 3,
+            "date": "2026-09-11"
+          },
+          {
+            "id": "st16-history-2",
+            "value": 4,
+            "date": "2026-09-18"
+          },
+          {
+            "id": "st16-history-3",
+            "value": 3,
+            "date": "2026-10-12"
+          },
+          {
+            "id": "st16-history-4",
+            "value": 2,
+            "date": "2026-11-06",
+            "comment": "Контрольная работа"
+          }
+        ]
+      }
+    },
+    {
+      "id": "st17",
+      "name": "Мырзабеков Ынтымак Дүрбөлөңович",
+      "grades": {
+        "math": [
+          {
+            "id": "st17-math-1",
+            "value": 4,
+            "date": "2026-11-02",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st17-math-2",
+            "value": 4,
+            "date": "2026-11-04",
+            "comment": "Домашнее задание"
+          },
+          {
+            "id": "st17-math-3",
+            "value": 3,
+            "date": "2026-11-05"
+          }
+        ],
+        "russian": [
+          {
+            "id": "st17-russian-1",
+            "value": 2,
+            "date": "2026-10-01"
+          },
+          {
+            "id": "st17-russian-2",
+            "value": 4,
+            "date": "2026-11-13"
+          },
+          {
+            "id": "st17-russian-3",
+            "value": 3,
+            "date": "2026-11-16"
+          }
+        ],
+        "kyrgyz": [
+          {
+            "id": "st17-kyrgyz-1",
+            "value": 2,
+            "date": "2026-09-07"
+          },
+          {
+            "id": "st17-kyrgyz-2",
+            "value": 4,
+            "date": "2026-11-12"
+          },
+          {
+            "id": "st17-kyrgyz-3",
+            "value": 3,
+            "date": "2026-11-12"
+          }
+        ],
+        "english": [
+          {
+            "id": "st17-english-1",
+            "value": 3,
+            "date": "2026-09-22"
+          },
+          {
+            "id": "st17-english-2",
+            "value": 3,
+            "date": "2026-10-21",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st17-english-3",
+            "value": 3,
+            "date": "2026-11-10"
+          }
+        ],
+        "physics": [
+          {
+            "id": "st17-physics-1",
+            "value": 3,
+            "date": "2026-09-07",
+            "comment": "Практическая работа"
+          },
+          {
+            "id": "st17-physics-2",
+            "value": 4,
+            "date": "2026-09-18"
+          },
+          {
+            "id": "st17-physics-3",
+            "value": 4,
+            "date": "2026-10-12",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st17-physics-4",
+            "value": 4,
+            "date": "2026-10-27"
+          },
+          {
+            "id": "st17-physics-5",
+            "value": 2,
+            "date": "2026-11-10"
+          }
+        ],
+        "informatics": [
+          {
+            "id": "st17-informatics-1",
+            "value": 3,
+            "date": "2026-09-02"
+          },
+          {
+            "id": "st17-informatics-2",
+            "value": 4,
+            "date": "2026-09-16"
+          },
+          {
+            "id": "st17-informatics-3",
+            "value": 3,
+            "date": "2026-10-28",
+            "comment": "Практическая работа"
+          },
+          {
+            "id": "st17-informatics-4",
+            "value": 4,
+            "date": "2026-11-03",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st17-informatics-5",
+            "value": 4,
+            "date": "2026-11-11"
+          }
+        ],
+        "programming": [
+          {
+            "id": "st17-programming-1",
+            "value": 3,
+            "date": "2026-09-03"
+          },
+          {
+            "id": "st17-programming-2",
+            "value": 3,
+            "date": "2026-09-08"
+          },
+          {
+            "id": "st17-programming-3",
+            "value": 4,
+            "date": "2026-09-16",
+            "comment": "Домашнее задание"
+          },
+          {
+            "id": "st17-programming-4",
+            "value": 3,
+            "date": "2026-09-23"
+          },
+          {
+            "id": "st17-programming-5",
+            "value": 4,
+            "date": "2026-10-01"
+          },
+          {
+            "id": "st17-programming-6",
+            "value": 4,
+            "date": "2026-10-30"
+          }
+        ],
+        "history": [
+          {
+            "id": "st17-history-1",
+            "value": 3,
+            "date": "2026-10-02"
+          },
+          {
+            "id": "st17-history-2",
+            "value": 4,
+            "date": "2026-10-19"
+          },
+          {
+            "id": "st17-history-3",
+            "value": 3,
+            "date": "2026-10-22",
+            "comment": "Практическая работа"
+          },
+          {
+            "id": "st17-history-4",
+            "value": 4,
+            "date": "2026-10-28"
+          },
+          {
+            "id": "st17-history-5",
+            "value": 4,
+            "date": "2026-11-16"
+          }
+        ]
+      }
+    },
+    {
+      "id": "st18",
+      "name": "Рабиева Халича Рахматшоевна",
+      "grades": {
+        "math": [
+          {
+            "id": "st18-math-1",
+            "value": 4,
+            "date": "2026-09-11"
+          },
+          {
+            "id": "st18-math-2",
+            "value": 4,
+            "date": "2026-10-07"
+          },
+          {
+            "id": "st18-math-3",
+            "value": 4,
+            "date": "2026-10-08"
+          }
+        ],
+        "russian": [
+          {
+            "id": "st18-russian-1",
+            "value": 3,
+            "date": "2026-09-15",
+            "comment": "Практическая работа"
+          },
+          {
+            "id": "st18-russian-2",
+            "value": 4,
+            "date": "2026-09-16"
+          },
+          {
+            "id": "st18-russian-3",
+            "value": 4,
+            "date": "2026-10-07",
+            "comment": "Самостоятельная работа"
+          },
+          {
+            "id": "st18-russian-4",
+            "value": 3,
+            "date": "2026-10-26"
+          },
+          {
+            "id": "st18-russian-5",
+            "value": 4,
+            "date": "2026-11-03"
+          }
+        ],
+        "kyrgyz": [
+          {
+            "id": "st18-kyrgyz-1",
+            "value": 3,
+            "date": "2026-09-10",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st18-kyrgyz-2",
+            "value": 3,
+            "date": "2026-10-28"
+          },
+          {
+            "id": "st18-kyrgyz-3",
+            "value": 4,
+            "date": "2026-11-04"
+          },
+          {
+            "id": "st18-kyrgyz-4",
+            "value": 4,
+            "date": "2026-11-05",
+            "comment": "Реферат"
+          },
+          {
+            "id": "st18-kyrgyz-5",
+            "value": 3,
+            "date": "2026-11-12"
+          }
+        ],
+        "english": [
+          {
+            "id": "st18-english-1",
+            "value": 4,
+            "date": "2026-09-04",
+            "comment": "Контрольная работа"
+          },
+          {
+            "id": "st18-english-2",
+            "value": 2,
+            "date": "2026-09-14"
+          },
+          {
+            "id": "st18-english-3",
+            "value": 4,
+            "date": "2026-09-16"
+          },
+          {
+            "id": "st18-english-4",
+            "value": 4,
+            "date": "2026-09-30",
+            "comment": "Реферат"
+          },
+          {
+            "id": "st18-english-5",
+            "value": 3,
+            "date": "2026-10-20"
+          },
+          {
+            "id": "st18-english-6",
+            "value": 3,
+            "date": "2026-11-18"
+          }
+        ],
+        "physics": [
+          {
+            "id": "st18-physics-1",
+            "value": 3,
+            "date": "2026-09-04"
+          },
+          {
+            "id": "st18-physics-2",
+            "value": 4,
+            "date": "2026-09-04"
+          },
+          {
+            "id": "st18-physics-3",
+            "value": 4,
+            "date": "2026-09-30"
+          },
+          {
+            "id": "st18-physics-4",
+            "value": 4,
+            "date": "2026-09-30"
+          },
+          {
+            "id": "st18-physics-5",
+            "value": 2,
+            "date": "2026-11-04",
+            "comment": "Практическая работа"
+          },
+          {
+            "id": "st18-physics-6",
+            "value": 4,
+            "date": "2026-11-09",
+            "comment": "Реферат"
+          }
+        ],
+        "informatics": [
+          {
+            "id": "st18-informatics-1",
+            "value": 4,
+            "date": "2026-09-02"
+          },
+          {
+            "id": "st18-informatics-2",
+            "value": 4,
+            "date": "2026-09-15"
+          },
+          {
+            "id": "st18-informatics-3",
+            "value": 2,
+            "date": "2026-10-30"
+          },
+          {
+            "id": "st18-informatics-4",
+            "value": 4,
+            "date": "2026-11-03"
+          },
+          {
+            "id": "st18-informatics-5",
+            "value": 3,
+            "date": "2026-11-13",
+            "comment": "Реферат"
+          }
+        ],
+        "programming": [
+          {
+            "id": "st18-programming-1",
+            "value": 4,
+            "date": "2026-09-25"
+          },
+          {
+            "id": "st18-programming-2",
+            "value": 2,
+            "date": "2026-10-08"
+          },
+          {
+            "id": "st18-programming-3",
+            "value": 4,
+            "date": "2026-10-15"
+          }
+        ],
+        "history": [
+          {
+            "id": "st18-history-1",
+            "value": 4,
+            "date": "2026-09-17",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st18-history-2",
+            "value": 4,
+            "date": "2026-10-13"
+          },
+          {
+            "id": "st18-history-3",
+            "value": 3,
+            "date": "2026-10-21"
+          }
+        ]
+      }
+    },
+    {
+      "id": "st19",
+      "name": "Раимкулов Аймир",
+      "grades": {
+        "math": [
+          {
+            "id": "st19-math-1",
+            "value": 3,
+            "date": "2026-09-07"
+          },
+          {
+            "id": "st19-math-2",
+            "value": 5,
+            "date": "2026-10-02"
+          },
+          {
+            "id": "st19-math-3",
+            "value": 4,
+            "date": "2026-10-16"
+          },
+          {
+            "id": "st19-math-4",
+            "value": 5,
+            "date": "2026-10-28"
+          },
+          {
+            "id": "st19-math-5",
+            "value": 5,
+            "date": "2026-11-20",
+            "comment": "Реферат"
+          }
+        ],
+        "russian": [
+          {
+            "id": "st19-russian-1",
+            "value": 4,
+            "date": "2026-09-16"
+          },
+          {
+            "id": "st19-russian-2",
+            "value": 5,
+            "date": "2026-10-05",
+            "comment": "Домашнее задание"
+          },
+          {
+            "id": "st19-russian-3",
+            "value": 5,
+            "date": "2026-10-05"
+          },
+          {
+            "id": "st19-russian-4",
+            "value": 5,
+            "date": "2026-10-07"
+          },
+          {
+            "id": "st19-russian-5",
+            "value": 4,
+            "date": "2026-10-29",
+            "comment": "Реферат"
+          }
+        ],
+        "kyrgyz": [
+          {
+            "id": "st19-kyrgyz-1",
+            "value": 5,
+            "date": "2026-09-15",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st19-kyrgyz-2",
+            "value": 5,
+            "date": "2026-10-01"
+          },
+          {
+            "id": "st19-kyrgyz-3",
+            "value": 4,
+            "date": "2026-10-28"
+          },
+          {
+            "id": "st19-kyrgyz-4",
+            "value": 4,
+            "date": "2026-11-03"
+          }
+        ],
+        "english": [
+          {
+            "id": "st19-english-1",
+            "value": 5,
+            "date": "2026-09-09"
+          },
+          {
+            "id": "st19-english-2",
+            "value": 3,
+            "date": "2026-09-10"
+          },
+          {
+            "id": "st19-english-3",
+            "value": 3,
+            "date": "2026-09-15",
+            "comment": "Контрольная работа"
+          },
+          {
+            "id": "st19-english-4",
+            "value": 5,
+            "date": "2026-10-14"
+          },
+          {
+            "id": "st19-english-5",
+            "value": 4,
+            "date": "2026-11-11"
+          },
+          {
+            "id": "st19-english-6",
+            "value": 5,
+            "date": "2026-11-18"
+          }
+        ],
+        "physics": [
+          {
+            "id": "st19-physics-1",
+            "value": 5,
+            "date": "2026-09-14"
+          },
+          {
+            "id": "st19-physics-2",
+            "value": 4,
+            "date": "2026-10-02"
+          },
+          {
+            "id": "st19-physics-3",
+            "value": 4,
+            "date": "2026-11-04"
+          },
+          {
+            "id": "st19-physics-4",
+            "value": 5,
+            "date": "2026-11-05"
+          }
+        ],
+        "informatics": [
+          {
+            "id": "st19-informatics-1",
+            "value": 4,
+            "date": "2026-09-24"
+          },
+          {
+            "id": "st19-informatics-2",
+            "value": 5,
+            "date": "2026-10-12"
+          },
+          {
+            "id": "st19-informatics-3",
+            "value": 3,
+            "date": "2026-11-11"
+          },
+          {
+            "id": "st19-informatics-4",
+            "value": 3,
+            "date": "2026-11-12"
+          }
+        ],
+        "programming": [
+          {
+            "id": "st19-programming-1",
+            "value": 4,
+            "date": "2026-09-16",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st19-programming-2",
+            "value": 5,
+            "date": "2026-09-18"
+          },
+          {
+            "id": "st19-programming-3",
+            "value": 4,
+            "date": "2026-10-08",
+            "comment": "Контрольная работа"
+          },
+          {
+            "id": "st19-programming-4",
+            "value": 4,
+            "date": "2026-10-26"
+          },
+          {
+            "id": "st19-programming-5",
+            "value": 4,
+            "date": "2026-11-10"
+          },
+          {
+            "id": "st19-programming-6",
+            "value": 5,
+            "date": "2026-11-12"
+          }
+        ],
+        "history": [
+          {
+            "id": "st19-history-1",
+            "value": 3,
+            "date": "2026-09-09"
+          },
+          {
+            "id": "st19-history-2",
+            "value": 5,
+            "date": "2026-09-10"
+          },
+          {
+            "id": "st19-history-3",
+            "value": 5,
+            "date": "2026-09-17"
+          },
+          {
+            "id": "st19-history-4",
+            "value": 5,
+            "date": "2026-10-12"
+          },
+          {
+            "id": "st19-history-5",
+            "value": 3,
+            "date": "2026-11-05",
+            "comment": "Ответ у доски"
+          }
+        ]
+      }
+    },
+    {
+      "id": "st20",
+      "name": "Рашынбеков Ислам Алтынбекович",
+      "grades": {
+        "math": [
+          {
+            "id": "st20-math-1",
+            "value": 3,
+            "date": "2026-09-09",
+            "comment": "Реферат"
+          },
+          {
+            "id": "st20-math-2",
+            "value": 4,
+            "date": "2026-09-18"
+          },
+          {
+            "id": "st20-math-3",
+            "value": 3,
+            "date": "2026-09-30"
+          },
+          {
+            "id": "st20-math-4",
+            "value": 3,
+            "date": "2026-10-27"
+          },
+          {
+            "id": "st20-math-5",
+            "value": 2,
+            "date": "2026-11-10"
+          },
+          {
+            "id": "st20-math-6",
+            "value": 3,
+            "date": "2026-11-18"
+          }
+        ],
+        "russian": [
+          {
+            "id": "st20-russian-1",
+            "value": 3,
+            "date": "2026-10-12"
+          },
+          {
+            "id": "st20-russian-2",
+            "value": 4,
+            "date": "2026-10-19"
+          },
+          {
+            "id": "st20-russian-3",
+            "value": 3,
+            "date": "2026-11-10",
+            "comment": "Домашнее задание"
+          }
+        ],
+        "kyrgyz": [
+          {
+            "id": "st20-kyrgyz-1",
+            "value": 4,
+            "date": "2026-09-04"
+          },
+          {
+            "id": "st20-kyrgyz-2",
+            "value": 4,
+            "date": "2026-09-11"
+          },
+          {
+            "id": "st20-kyrgyz-3",
+            "value": 4,
+            "date": "2026-10-02",
+            "comment": "Практическая работа"
+          },
+          {
+            "id": "st20-kyrgyz-4",
+            "value": 4,
+            "date": "2026-10-26"
+          }
+        ],
+        "english": [
+          {
+            "id": "st20-english-1",
+            "value": 2,
+            "date": "2026-09-08"
+          },
+          {
+            "id": "st20-english-2",
+            "value": 2,
+            "date": "2026-09-28"
+          },
+          {
+            "id": "st20-english-3",
+            "value": 3,
+            "date": "2026-10-22",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st20-english-4",
+            "value": 3,
+            "date": "2026-10-22"
+          }
+        ],
+        "physics": [
+          {
+            "id": "st20-physics-1",
+            "value": 4,
+            "date": "2026-09-25"
+          },
+          {
+            "id": "st20-physics-2",
+            "value": 4,
+            "date": "2026-10-02",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st20-physics-3",
+            "value": 4,
+            "date": "2026-11-04"
+          },
+          {
+            "id": "st20-physics-4",
+            "value": 3,
+            "date": "2026-11-16"
+          },
+          {
+            "id": "st20-physics-5",
+            "value": 4,
+            "date": "2026-11-19"
+          }
+        ],
+        "informatics": [
+          {
+            "id": "st20-informatics-1",
+            "value": 3,
+            "date": "2026-09-10"
+          },
+          {
+            "id": "st20-informatics-2",
+            "value": 2,
+            "date": "2026-09-24",
+            "comment": "Практическая работа"
+          },
+          {
+            "id": "st20-informatics-3",
+            "value": 2,
+            "date": "2026-10-22"
+          },
+          {
+            "id": "st20-informatics-4",
+            "value": 3,
+            "date": "2026-10-27"
+          },
+          {
+            "id": "st20-informatics-5",
+            "value": 3,
+            "date": "2026-11-05"
+          },
+          {
+            "id": "st20-informatics-6",
+            "value": 4,
+            "date": "2026-11-09"
+          }
+        ],
+        "programming": [
+          {
+            "id": "st20-programming-1",
+            "value": 4,
+            "date": "2026-09-09"
+          },
+          {
+            "id": "st20-programming-2",
+            "value": 3,
+            "date": "2026-10-12"
+          },
+          {
+            "id": "st20-programming-3",
+            "value": 4,
+            "date": "2026-11-11"
+          }
+        ],
+        "history": [
+          {
+            "id": "st20-history-1",
+            "value": 4,
+            "date": "2026-10-08"
+          },
+          {
+            "id": "st20-history-2",
+            "value": 2,
+            "date": "2026-10-20",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st20-history-3",
+            "value": 4,
+            "date": "2026-11-03"
+          }
+        ]
+      }
+    },
+    {
+      "id": "st21",
+      "name": "Сагындыков Байэл Жакшылыкович",
+      "grades": {
+        "math": [
+          {
+            "id": "st21-math-1",
+            "value": 3,
+            "date": "2026-10-19",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st21-math-2",
+            "value": 3,
+            "date": "2026-10-28",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st21-math-3",
+            "value": 3,
+            "date": "2026-11-03"
+          }
+        ],
+        "russian": [
+          {
+            "id": "st21-russian-1",
+            "value": 3,
+            "date": "2026-09-04"
+          },
+          {
+            "id": "st21-russian-2",
+            "value": 4,
+            "date": "2026-10-16"
+          },
+          {
+            "id": "st21-russian-3",
+            "value": 3,
+            "date": "2026-10-16"
+          }
+        ],
+        "kyrgyz": [
+          {
+            "id": "st21-kyrgyz-1",
+            "value": 2,
+            "date": "2026-09-22",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st21-kyrgyz-2",
+            "value": 3,
+            "date": "2026-09-23",
+            "comment": "Реферат"
+          },
+          {
+            "id": "st21-kyrgyz-3",
+            "value": 3,
+            "date": "2026-09-23"
+          },
+          {
+            "id": "st21-kyrgyz-4",
+            "value": 3,
+            "date": "2026-09-29"
+          },
+          {
+            "id": "st21-kyrgyz-5",
+            "value": 4,
+            "date": "2026-10-14"
+          }
+        ],
+        "english": [
+          {
+            "id": "st21-english-1",
+            "value": 4,
+            "date": "2026-09-29"
+          },
+          {
+            "id": "st21-english-2",
+            "value": 3,
+            "date": "2026-10-15",
+            "comment": "Контрольная работа"
+          },
+          {
+            "id": "st21-english-3",
+            "value": 2,
+            "date": "2026-10-27"
+          },
+          {
+            "id": "st21-english-4",
+            "value": 3,
+            "date": "2026-10-29"
+          },
+          {
+            "id": "st21-english-5",
+            "value": 2,
+            "date": "2026-10-30"
+          }
+        ],
+        "physics": [
+          {
+            "id": "st21-physics-1",
+            "value": 3,
+            "date": "2026-09-17"
+          },
+          {
+            "id": "st21-physics-2",
+            "value": 4,
+            "date": "2026-09-24"
+          },
+          {
+            "id": "st21-physics-3",
+            "value": 3,
+            "date": "2026-11-04"
+          },
+          {
+            "id": "st21-physics-4",
+            "value": 3,
+            "date": "2026-11-09"
+          },
+          {
+            "id": "st21-physics-5",
+            "value": 3,
+            "date": "2026-11-11",
+            "comment": "Реферат"
+          }
+        ],
+        "informatics": [
+          {
+            "id": "st21-informatics-1",
+            "value": 3,
+            "date": "2026-09-24",
+            "comment": "Реферат"
+          },
+          {
+            "id": "st21-informatics-2",
+            "value": 4,
+            "date": "2026-10-02"
+          },
+          {
+            "id": "st21-informatics-3",
+            "value": 3,
+            "date": "2026-10-09"
+          }
+        ],
+        "programming": [
+          {
+            "id": "st21-programming-1",
+            "value": 3,
+            "date": "2026-09-25"
+          },
+          {
+            "id": "st21-programming-2",
+            "value": 2,
+            "date": "2026-10-13"
+          },
+          {
+            "id": "st21-programming-3",
+            "value": 4,
+            "date": "2026-10-21"
+          },
+          {
+            "id": "st21-programming-4",
+            "value": 2,
+            "date": "2026-10-26"
+          },
+          {
+            "id": "st21-programming-5",
+            "value": 3,
+            "date": "2026-11-06"
+          }
+        ],
+        "history": [
+          {
+            "id": "st21-history-1",
+            "value": 2,
+            "date": "2026-09-03",
+            "comment": "Реферат"
+          },
+          {
+            "id": "st21-history-2",
+            "value": 2,
+            "date": "2026-09-28"
+          },
+          {
+            "id": "st21-history-3",
+            "value": 4,
+            "date": "2026-10-07",
+            "comment": "Самостоятельная работа"
+          },
+          {
+            "id": "st21-history-4",
+            "value": 4,
+            "date": "2026-10-12"
+          },
+          {
+            "id": "st21-history-5",
+            "value": 4,
+            "date": "2026-10-22"
+          },
+          {
+            "id": "st21-history-6",
+            "value": 2,
+            "date": "2026-10-23"
+          }
+        ]
+      }
+    },
+    {
+      "id": "st22",
+      "name": "Сатыбалдиев Марсель Фархадович",
+      "grades": {
+        "math": [
+          {
+            "id": "st22-math-1",
+            "value": 3,
+            "date": "2026-11-09"
+          },
+          {
+            "id": "st22-math-2",
+            "value": 4,
+            "date": "2026-11-18"
+          },
+          {
+            "id": "st22-math-3",
+            "value": 3,
+            "date": "2026-11-19"
+          }
+        ],
+        "russian": [
+          {
+            "id": "st22-russian-1",
+            "value": 3,
+            "date": "2026-09-10",
+            "comment": "Контрольная работа"
+          },
+          {
+            "id": "st22-russian-2",
+            "value": 3,
+            "date": "2026-09-25",
+            "comment": "Практическая работа"
+          },
+          {
+            "id": "st22-russian-3",
+            "value": 4,
+            "date": "2026-10-06"
+          },
+          {
+            "id": "st22-russian-4",
+            "value": 2,
+            "date": "2026-11-11"
+          }
+        ],
+        "kyrgyz": [
+          {
+            "id": "st22-kyrgyz-1",
+            "value": 2,
+            "date": "2026-09-22"
+          },
+          {
+            "id": "st22-kyrgyz-2",
+            "value": 3,
+            "date": "2026-10-21",
+            "comment": "Практическая работа"
+          },
+          {
+            "id": "st22-kyrgyz-3",
+            "value": 2,
+            "date": "2026-10-23"
+          },
+          {
+            "id": "st22-kyrgyz-4",
+            "value": 4,
+            "date": "2026-11-13"
+          },
+          {
+            "id": "st22-kyrgyz-5",
+            "value": 2,
+            "date": "2026-11-18"
+          },
+          {
+            "id": "st22-kyrgyz-6",
+            "value": 4,
+            "date": "2026-11-19"
+          }
+        ],
+        "english": [
+          {
+            "id": "st22-english-1",
+            "value": 4,
+            "date": "2026-09-02"
+          },
+          {
+            "id": "st22-english-2",
+            "value": 4,
+            "date": "2026-09-07"
+          },
+          {
+            "id": "st22-english-3",
+            "value": 4,
+            "date": "2026-09-24"
+          },
+          {
+            "id": "st22-english-4",
+            "value": 3,
+            "date": "2026-11-02"
+          },
+          {
+            "id": "st22-english-5",
+            "value": 4,
+            "date": "2026-11-13"
+          },
+          {
+            "id": "st22-english-6",
+            "value": 4,
+            "date": "2026-11-18"
+          }
+        ],
+        "physics": [
+          {
+            "id": "st22-physics-1",
+            "value": 2,
+            "date": "2026-09-04"
+          },
+          {
+            "id": "st22-physics-2",
+            "value": 2,
+            "date": "2026-09-22"
+          },
+          {
+            "id": "st22-physics-3",
+            "value": 3,
+            "date": "2026-09-25"
+          },
+          {
+            "id": "st22-physics-4",
+            "value": 2,
+            "date": "2026-10-19"
+          },
+          {
+            "id": "st22-physics-5",
+            "value": 3,
+            "date": "2026-11-02"
+          },
+          {
+            "id": "st22-physics-6",
+            "value": 3,
+            "date": "2026-11-18"
+          }
+        ],
+        "informatics": [
+          {
+            "id": "st22-informatics-1",
+            "value": 2,
+            "date": "2026-09-02"
+          },
+          {
+            "id": "st22-informatics-2",
+            "value": 2,
+            "date": "2026-09-16"
+          },
+          {
+            "id": "st22-informatics-3",
+            "value": 3,
+            "date": "2026-09-22"
+          },
+          {
+            "id": "st22-informatics-4",
+            "value": 2,
+            "date": "2026-10-06",
+            "comment": "Самостоятельная работа"
+          },
+          {
+            "id": "st22-informatics-5",
+            "value": 4,
+            "date": "2026-10-13"
+          },
+          {
+            "id": "st22-informatics-6",
+            "value": 4,
+            "date": "2026-11-05",
+            "comment": "Самостоятельная работа"
+          }
+        ],
+        "programming": [
+          {
+            "id": "st22-programming-1",
+            "value": 3,
+            "date": "2026-09-14"
+          },
+          {
+            "id": "st22-programming-2",
+            "value": 3,
+            "date": "2026-09-21"
+          },
+          {
+            "id": "st22-programming-3",
+            "value": 2,
+            "date": "2026-10-02",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st22-programming-4",
+            "value": 3,
+            "date": "2026-10-06"
+          },
+          {
+            "id": "st22-programming-5",
+            "value": 4,
+            "date": "2026-10-12"
+          },
+          {
+            "id": "st22-programming-6",
+            "value": 4,
+            "date": "2026-10-28"
+          }
+        ],
+        "history": [
+          {
+            "id": "st22-history-1",
+            "value": 3,
+            "date": "2026-09-03",
+            "comment": "Практическая работа"
+          },
+          {
+            "id": "st22-history-2",
+            "value": 3,
+            "date": "2026-09-08"
+          },
+          {
+            "id": "st22-history-3",
+            "value": 3,
+            "date": "2026-09-23",
+            "comment": "Самостоятельная работа"
+          },
+          {
+            "id": "st22-history-4",
+            "value": 3,
+            "date": "2026-10-09"
+          },
+          {
+            "id": "st22-history-5",
+            "value": 2,
+            "date": "2026-10-30"
+          },
+          {
+            "id": "st22-history-6",
+            "value": 2,
+            "date": "2026-11-13"
+          }
+        ]
+      }
+    },
+    {
+      "id": "st23",
+      "name": "Токтогулов Бектур Мирланович",
+      "grades": {
+        "math": [
+          {
+            "id": "st23-math-1",
+            "value": 4,
+            "date": "2026-10-21"
+          },
+          {
+            "id": "st23-math-2",
+            "value": 3,
+            "date": "2026-10-29"
+          },
+          {
+            "id": "st23-math-3",
+            "value": 3,
+            "date": "2026-11-06"
+          },
+          {
+            "id": "st23-math-4",
+            "value": 4,
+            "date": "2026-11-06",
+            "comment": "Самостоятельная работа"
+          }
+        ],
+        "russian": [
+          {
+            "id": "st23-russian-1",
+            "value": 4,
+            "date": "2026-09-14"
+          },
+          {
+            "id": "st23-russian-2",
+            "value": 4,
+            "date": "2026-09-15"
+          },
+          {
+            "id": "st23-russian-3",
+            "value": 3,
+            "date": "2026-10-01"
+          }
+        ],
+        "kyrgyz": [
+          {
+            "id": "st23-kyrgyz-1",
+            "value": 3,
+            "date": "2026-09-17"
+          },
+          {
+            "id": "st23-kyrgyz-2",
+            "value": 4,
+            "date": "2026-09-18"
+          },
+          {
+            "id": "st23-kyrgyz-3",
+            "value": 2,
+            "date": "2026-10-08"
+          },
+          {
+            "id": "st23-kyrgyz-4",
+            "value": 3,
+            "date": "2026-10-30"
+          },
+          {
+            "id": "st23-kyrgyz-5",
+            "value": 3,
+            "date": "2026-11-04"
+          }
+        ],
+        "english": [
+          {
+            "id": "st23-english-1",
+            "value": 2,
+            "date": "2026-09-09"
+          },
+          {
+            "id": "st23-english-2",
+            "value": 2,
+            "date": "2026-09-17"
+          },
+          {
+            "id": "st23-english-3",
+            "value": 4,
+            "date": "2026-10-08",
+            "comment": "Домашнее задание"
+          },
+          {
+            "id": "st23-english-4",
+            "value": 2,
+            "date": "2026-10-26"
+          },
+          {
+            "id": "st23-english-5",
+            "value": 3,
+            "date": "2026-11-04"
+          },
+          {
+            "id": "st23-english-6",
+            "value": 4,
+            "date": "2026-11-20"
+          }
+        ],
+        "physics": [
+          {
+            "id": "st23-physics-1",
+            "value": 4,
+            "date": "2026-10-05"
+          },
+          {
+            "id": "st23-physics-2",
+            "value": 4,
+            "date": "2026-10-28"
+          },
+          {
+            "id": "st23-physics-3",
+            "value": 3,
+            "date": "2026-11-09"
+          },
+          {
+            "id": "st23-physics-4",
+            "value": 2,
+            "date": "2026-11-09"
+          },
+          {
+            "id": "st23-physics-5",
+            "value": 3,
+            "date": "2026-11-17",
+            "comment": "Контрольная работа"
+          },
+          {
+            "id": "st23-physics-6",
+            "value": 3,
+            "date": "2026-11-19"
+          }
+        ],
+        "informatics": [
+          {
+            "id": "st23-informatics-1",
+            "value": 3,
+            "date": "2026-10-12"
+          },
+          {
+            "id": "st23-informatics-2",
+            "value": 3,
+            "date": "2026-10-12"
+          },
+          {
+            "id": "st23-informatics-3",
+            "value": 3,
+            "date": "2026-10-20",
+            "comment": "Практическая работа"
+          },
+          {
+            "id": "st23-informatics-4",
+            "value": 3,
+            "date": "2026-11-10",
+            "comment": "Домашнее задание"
+          },
+          {
+            "id": "st23-informatics-5",
+            "value": 3,
+            "date": "2026-11-17"
+          }
+        ],
+        "programming": [
+          {
+            "id": "st23-programming-1",
+            "value": 4,
+            "date": "2026-09-21"
+          },
+          {
+            "id": "st23-programming-2",
+            "value": 3,
+            "date": "2026-09-21",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st23-programming-3",
+            "value": 4,
+            "date": "2026-11-04"
+          }
+        ],
+        "history": [
+          {
+            "id": "st23-history-1",
+            "value": 3,
+            "date": "2026-10-23"
+          },
+          {
+            "id": "st23-history-2",
+            "value": 4,
+            "date": "2026-10-29"
+          },
+          {
+            "id": "st23-history-3",
+            "value": 4,
+            "date": "2026-11-06"
+          },
+          {
+            "id": "st23-history-4",
+            "value": 4,
+            "date": "2026-11-19"
+          }
+        ]
+      }
+    },
+    {
+      "id": "st24",
+      "name": "Тургуналиева Назира Сиязбековна",
+      "grades": {
+        "math": [
+          {
+            "id": "st24-math-1",
+            "value": 4,
+            "date": "2026-09-03"
+          },
+          {
+            "id": "st24-math-2",
+            "value": 3,
+            "date": "2026-09-30"
+          },
+          {
+            "id": "st24-math-3",
+            "value": 3,
+            "date": "2026-10-28"
+          },
+          {
+            "id": "st24-math-4",
+            "value": 3,
+            "date": "2026-11-11"
+          },
+          {
+            "id": "st24-math-5",
+            "value": 4,
+            "date": "2026-11-19",
+            "comment": "Домашнее задание"
+          }
+        ],
+        "russian": [
+          {
+            "id": "st24-russian-1",
+            "value": 4,
+            "date": "2026-09-03"
+          },
+          {
+            "id": "st24-russian-2",
+            "value": 4,
+            "date": "2026-09-07"
+          },
+          {
+            "id": "st24-russian-3",
+            "value": 3,
+            "date": "2026-09-14"
+          },
+          {
+            "id": "st24-russian-4",
+            "value": 3,
+            "date": "2026-09-24"
+          },
+          {
+            "id": "st24-russian-5",
+            "value": 3,
+            "date": "2026-10-12"
+          },
+          {
+            "id": "st24-russian-6",
+            "value": 3,
+            "date": "2026-11-20"
+          }
+        ],
+        "kyrgyz": [
+          {
+            "id": "st24-kyrgyz-1",
+            "value": 4,
+            "date": "2026-10-07"
+          },
+          {
+            "id": "st24-kyrgyz-2",
+            "value": 4,
+            "date": "2026-10-28"
+          },
+          {
+            "id": "st24-kyrgyz-3",
+            "value": 3,
+            "date": "2026-11-04"
+          },
+          {
+            "id": "st24-kyrgyz-4",
+            "value": 3,
+            "date": "2026-11-05",
+            "comment": "Контрольная работа"
+          }
+        ],
+        "english": [
+          {
+            "id": "st24-english-1",
+            "value": 2,
+            "date": "2026-09-02"
+          },
+          {
+            "id": "st24-english-2",
+            "value": 3,
+            "date": "2026-09-03"
+          },
+          {
+            "id": "st24-english-3",
+            "value": 3,
+            "date": "2026-09-15"
+          },
+          {
+            "id": "st24-english-4",
+            "value": 3,
+            "date": "2026-09-15"
+          },
+          {
+            "id": "st24-english-5",
+            "value": 3,
+            "date": "2026-11-12"
+          }
+        ],
+        "physics": [
+          {
+            "id": "st24-physics-1",
+            "value": 4,
+            "date": "2026-09-28"
+          },
+          {
+            "id": "st24-physics-2",
+            "value": 4,
+            "date": "2026-11-04"
+          },
+          {
+            "id": "st24-physics-3",
+            "value": 2,
+            "date": "2026-11-20",
+            "comment": "Реферат"
+          }
+        ],
+        "informatics": [
+          {
+            "id": "st24-informatics-1",
+            "value": 4,
+            "date": "2026-10-16",
+            "comment": "Самостоятельная работа"
+          },
+          {
+            "id": "st24-informatics-2",
+            "value": 4,
+            "date": "2026-10-27"
+          },
+          {
+            "id": "st24-informatics-3",
+            "value": 4,
+            "date": "2026-10-28",
+            "comment": "Контрольная работа"
+          },
+          {
+            "id": "st24-informatics-4",
+            "value": 4,
+            "date": "2026-11-20"
+          },
+          {
+            "id": "st24-informatics-5",
+            "value": 4,
+            "date": "2026-11-20"
+          }
+        ],
+        "programming": [
+          {
+            "id": "st24-programming-1",
+            "value": 4,
+            "date": "2026-09-24",
+            "comment": "Практическая работа"
+          },
+          {
+            "id": "st24-programming-2",
+            "value": 4,
+            "date": "2026-10-16"
+          },
+          {
+            "id": "st24-programming-3",
+            "value": 3,
+            "date": "2026-11-03",
+            "comment": "Реферат"
+          }
+        ],
+        "history": [
+          {
+            "id": "st24-history-1",
+            "value": 4,
+            "date": "2026-10-26"
+          },
+          {
+            "id": "st24-history-2",
+            "value": 3,
+            "date": "2026-11-03"
+          },
+          {
+            "id": "st24-history-3",
+            "value": 4,
+            "date": "2026-11-05"
+          },
+          {
+            "id": "st24-history-4",
+            "value": 2,
+            "date": "2026-11-10"
+          }
+        ]
+      }
+    },
+    {
+      "id": "st25",
+      "name": "Чупахина Зарина Владимировна",
+      "grades": {
+        "math": [
+          {
+            "id": "st25-math-1",
+            "value": 3,
+            "date": "2026-09-03",
+            "comment": "Контрольная работа"
+          },
+          {
+            "id": "st25-math-2",
+            "value": 3,
+            "date": "2026-09-04"
+          },
+          {
+            "id": "st25-math-3",
+            "value": 2,
+            "date": "2026-09-11"
+          },
+          {
+            "id": "st25-math-4",
+            "value": 4,
+            "date": "2026-09-23"
+          },
+          {
+            "id": "st25-math-5",
+            "value": 3,
+            "date": "2026-09-28"
+          },
+          {
+            "id": "st25-math-6",
+            "value": 3,
+            "date": "2026-09-29"
+          }
+        ],
+        "russian": [
+          {
+            "id": "st25-russian-1",
+            "value": 2,
+            "date": "2026-09-14"
+          },
+          {
+            "id": "st25-russian-2",
+            "value": 2,
+            "date": "2026-10-14"
+          },
+          {
+            "id": "st25-russian-3",
+            "value": 2,
+            "date": "2026-11-02",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st25-russian-4",
+            "value": 2,
+            "date": "2026-11-06"
+          },
+          {
+            "id": "st25-russian-5",
+            "value": 3,
+            "date": "2026-11-13",
+            "comment": "Реферат"
+          },
+          {
+            "id": "st25-russian-6",
+            "value": 2,
+            "date": "2026-11-17"
+          }
+        ],
+        "kyrgyz": [
+          {
+            "id": "st25-kyrgyz-1",
+            "value": 2,
+            "date": "2026-09-17"
+          },
+          {
+            "id": "st25-kyrgyz-2",
+            "value": 2,
+            "date": "2026-09-17"
+          },
+          {
+            "id": "st25-kyrgyz-3",
+            "value": 3,
+            "date": "2026-10-02"
+          },
+          {
+            "id": "st25-kyrgyz-4",
+            "value": 3,
+            "date": "2026-11-20"
+          }
+        ],
+        "english": [
+          {
+            "id": "st25-english-1",
+            "value": 2,
+            "date": "2026-09-07"
+          },
+          {
+            "id": "st25-english-2",
+            "value": 3,
+            "date": "2026-09-15"
+          },
+          {
+            "id": "st25-english-3",
+            "value": 3,
+            "date": "2026-10-05"
+          }
+        ],
+        "physics": [
+          {
+            "id": "st25-physics-1",
+            "value": 2,
+            "date": "2026-09-11"
+          },
+          {
+            "id": "st25-physics-2",
+            "value": 3,
+            "date": "2026-09-29",
+            "comment": "Контрольная работа"
+          },
+          {
+            "id": "st25-physics-3",
+            "value": 3,
+            "date": "2026-10-05"
+          },
+          {
+            "id": "st25-physics-4",
+            "value": 2,
+            "date": "2026-10-30",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st25-physics-5",
+            "value": 3,
+            "date": "2026-11-02",
+            "comment": "Контрольная работа"
+          }
+        ],
+        "informatics": [
+          {
+            "id": "st25-informatics-1",
+            "value": 3,
+            "date": "2026-09-10"
+          },
+          {
+            "id": "st25-informatics-2",
+            "value": 3,
+            "date": "2026-10-23"
+          },
+          {
+            "id": "st25-informatics-3",
+            "value": 2,
+            "date": "2026-11-05"
+          }
+        ],
+        "programming": [
+          {
+            "id": "st25-programming-1",
+            "value": 4,
+            "date": "2026-09-09"
+          },
+          {
+            "id": "st25-programming-2",
+            "value": 4,
+            "date": "2026-09-25"
+          },
+          {
+            "id": "st25-programming-3",
+            "value": 2,
+            "date": "2026-10-02"
+          },
+          {
+            "id": "st25-programming-4",
+            "value": 2,
+            "date": "2026-10-29"
+          },
+          {
+            "id": "st25-programming-5",
+            "value": 3,
+            "date": "2026-11-13"
+          },
+          {
+            "id": "st25-programming-6",
+            "value": 2,
+            "date": "2026-11-13"
+          }
+        ],
+        "history": [
+          {
+            "id": "st25-history-1",
+            "value": 2,
+            "date": "2026-09-09",
+            "comment": "Реферат"
+          },
+          {
+            "id": "st25-history-2",
+            "value": 3,
+            "date": "2026-09-14"
+          },
+          {
+            "id": "st25-history-3",
+            "value": 2,
+            "date": "2026-10-02"
+          },
+          {
+            "id": "st25-history-4",
+            "value": 3,
+            "date": "2026-10-30",
+            "comment": "Контрольная работа"
+          }
+        ]
+      }
+    },
+    {
+      "id": "st26",
+      "name": "Шахан Анарбек Халитович",
+      "grades": {
+        "math": [
+          {
+            "id": "st26-math-1",
+            "value": 3,
+            "date": "2026-09-14"
+          },
+          {
+            "id": "st26-math-2",
+            "value": 2,
+            "date": "2026-10-27"
+          },
+          {
+            "id": "st26-math-3",
+            "value": 2,
+            "date": "2026-11-02"
+          },
+          {
+            "id": "st26-math-4",
+            "value": 4,
+            "date": "2026-11-20"
+          }
+        ],
+        "russian": [
+          {
+            "id": "st26-russian-1",
+            "value": 3,
+            "date": "2026-09-03"
+          },
+          {
+            "id": "st26-russian-2",
+            "value": 2,
+            "date": "2026-09-24"
+          },
+          {
+            "id": "st26-russian-3",
+            "value": 3,
+            "date": "2026-11-19"
+          }
+        ],
+        "kyrgyz": [
+          {
+            "id": "st26-kyrgyz-1",
+            "value": 3,
+            "date": "2026-10-02"
+          },
+          {
+            "id": "st26-kyrgyz-2",
+            "value": 3,
+            "date": "2026-10-12"
+          },
+          {
+            "id": "st26-kyrgyz-3",
+            "value": 3,
+            "date": "2026-10-21"
+          },
+          {
+            "id": "st26-kyrgyz-4",
+            "value": 2,
+            "date": "2026-10-23"
+          },
+          {
+            "id": "st26-kyrgyz-5",
+            "value": 3,
+            "date": "2026-10-29"
+          },
+          {
+            "id": "st26-kyrgyz-6",
+            "value": 3,
+            "date": "2026-11-20"
+          }
+        ],
+        "english": [
+          {
+            "id": "st26-english-1",
+            "value": 3,
+            "date": "2026-09-03"
+          },
+          {
+            "id": "st26-english-2",
+            "value": 3,
+            "date": "2026-09-04"
+          },
+          {
+            "id": "st26-english-3",
+            "value": 2,
+            "date": "2026-09-22"
+          },
+          {
+            "id": "st26-english-4",
+            "value": 3,
+            "date": "2026-10-08"
+          },
+          {
+            "id": "st26-english-5",
+            "value": 3,
+            "date": "2026-10-23"
+          }
+        ],
+        "physics": [
+          {
+            "id": "st26-physics-1",
+            "value": 3,
+            "date": "2026-09-17"
+          },
+          {
+            "id": "st26-physics-2",
+            "value": 2,
+            "date": "2026-09-23"
+          },
+          {
+            "id": "st26-physics-3",
+            "value": 3,
+            "date": "2026-09-23"
+          },
+          {
+            "id": "st26-physics-4",
+            "value": 3,
+            "date": "2026-09-25"
+          },
+          {
+            "id": "st26-physics-5",
+            "value": 2,
+            "date": "2026-09-28"
+          },
+          {
+            "id": "st26-physics-6",
+            "value": 2,
+            "date": "2026-10-22"
+          }
+        ],
+        "informatics": [
+          {
+            "id": "st26-informatics-1",
+            "value": 2,
+            "date": "2026-09-08"
+          },
+          {
+            "id": "st26-informatics-2",
+            "value": 4,
+            "date": "2026-09-09"
+          },
+          {
+            "id": "st26-informatics-3",
+            "value": 3,
+            "date": "2026-10-27"
+          },
+          {
+            "id": "st26-informatics-4",
+            "value": 3,
+            "date": "2026-11-05",
+            "comment": "Контрольная работа"
+          }
+        ],
+        "programming": [
+          {
+            "id": "st26-programming-1",
+            "value": 2,
+            "date": "2026-10-12"
+          },
+          {
+            "id": "st26-programming-2",
+            "value": 4,
+            "date": "2026-10-29",
+            "comment": "Практическая работа"
+          },
+          {
+            "id": "st26-programming-3",
+            "value": 2,
+            "date": "2026-10-30"
+          },
+          {
+            "id": "st26-programming-4",
+            "value": 2,
+            "date": "2026-11-20",
+            "comment": "Самостоятельная работа"
+          }
+        ],
+        "history": [
+          {
+            "id": "st26-history-1",
+            "value": 4,
+            "date": "2026-09-08"
+          },
+          {
+            "id": "st26-history-2",
+            "value": 2,
+            "date": "2026-09-14",
+            "comment": "Ответ у доски"
+          },
+          {
+            "id": "st26-history-3",
+            "value": 2,
+            "date": "2026-10-15"
+          }
+        ]
+      }
+    }
+  ]
+}
